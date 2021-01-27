@@ -22,7 +22,9 @@ ibufExtract.py - Reads an ibuf and vbuf files and outputs in terminal an ascii O
 python3 ibufExtract.py [ibufFilename] [vbufFilename] >output.obj 
 
 Example: Dump the OBJ file into terminal. 
+
 `python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf`
 
 Example 2:
+
 `python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf >tdu_beachball/tdu_beachball.obj`
