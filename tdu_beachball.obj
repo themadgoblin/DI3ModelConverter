@@ -1,0 +1,2534 @@
+#Reading ibuf file
+#tdu_beachball/tdu_beachball_0.ibuf size:4560 bytes
+# Number of vertex found: 441
+#Reading vbuf file
+#tdu_beachball/tdu_beachball_0.vbuf size:14112 bytes
+#DEBUG vertex 0 structure offset : 0
+#DEBUG vertex 1 structure offset : 16
+#DEBUG vertex 2 structure offset : 32
+#DEBUG vertex 3 structure offset : 48
+#DEBUG vertex 4 structure offset : 64
+#DEBUG vertex 5 structure offset : 80
+#DEBUG vertex 6 structure offset : 96
+#DEBUG vertex 7 structure offset : 112
+#DEBUG vertex 8 structure offset : 128
+#DEBUG vertex 9 structure offset : 144
+#DEBUG vertex 10 structure offset : 160
+#DEBUG vertex 11 structure offset : 176
+#DEBUG vertex 12 structure offset : 192
+#DEBUG vertex 13 structure offset : 208
+#DEBUG vertex 14 structure offset : 224
+#DEBUG vertex 15 structure offset : 240
+#DEBUG vertex 16 structure offset : 256
+#DEBUG vertex 17 structure offset : 272
+#DEBUG vertex 18 structure offset : 288
+#DEBUG vertex 19 structure offset : 304
+#DEBUG vertex 20 structure offset : 320
+#DEBUG vertex 21 structure offset : 336
+#DEBUG vertex 22 structure offset : 352
+#DEBUG vertex 23 structure offset : 368
+#DEBUG vertex 24 structure offset : 384
+#DEBUG vertex 25 structure offset : 400
+#DEBUG vertex 26 structure offset : 416
+#DEBUG vertex 27 structure offset : 432
+#DEBUG vertex 28 structure offset : 448
+#DEBUG vertex 29 structure offset : 464
+#DEBUG vertex 30 structure offset : 480
+#DEBUG vertex 31 structure offset : 496
+#DEBUG vertex 32 structure offset : 512
+#DEBUG vertex 33 structure offset : 528
+#DEBUG vertex 34 structure offset : 544
+#DEBUG vertex 35 structure offset : 560
+#DEBUG vertex 36 structure offset : 576
+#DEBUG vertex 37 structure offset : 592
+#DEBUG vertex 38 structure offset : 608
+#DEBUG vertex 39 structure offset : 624
+#DEBUG vertex 40 structure offset : 640
+#DEBUG vertex 41 structure offset : 656
+#DEBUG vertex 42 structure offset : 672
+#DEBUG vertex 43 structure offset : 688
+#DEBUG vertex 44 structure offset : 704
+#DEBUG vertex 45 structure offset : 720
+#DEBUG vertex 46 structure offset : 736
+#DEBUG vertex 47 structure offset : 752
+#DEBUG vertex 48 structure offset : 768
+#DEBUG vertex 49 structure offset : 784
+#DEBUG vertex 50 structure offset : 800
+#DEBUG vertex 51 structure offset : 816
+#DEBUG vertex 52 structure offset : 832
+#DEBUG vertex 53 structure offset : 848
+#DEBUG vertex 54 structure offset : 864
+#DEBUG vertex 55 structure offset : 880
+#DEBUG vertex 56 structure offset : 896
+#DEBUG vertex 57 structure offset : 912
+#DEBUG vertex 58 structure offset : 928
+#DEBUG vertex 59 structure offset : 944
+#DEBUG vertex 60 structure offset : 960
+#DEBUG vertex 61 structure offset : 976
+#DEBUG vertex 62 structure offset : 992
+#DEBUG vertex 63 structure offset : 1008
+#DEBUG vertex 64 structure offset : 1024
+#DEBUG vertex 65 structure offset : 1040
+#DEBUG vertex 66 structure offset : 1056
+#DEBUG vertex 67 structure offset : 1072
+#DEBUG vertex 68 structure offset : 1088
+#DEBUG vertex 69 structure offset : 1104
+#DEBUG vertex 70 structure offset : 1120
+#DEBUG vertex 71 structure offset : 1136
+#DEBUG vertex 72 structure offset : 1152
+#DEBUG vertex 73 structure offset : 1168
+#DEBUG vertex 74 structure offset : 1184
+#DEBUG vertex 75 structure offset : 1200
+#DEBUG vertex 76 structure offset : 1216
+#DEBUG vertex 77 structure offset : 1232
+#DEBUG vertex 78 structure offset : 1248
+#DEBUG vertex 79 structure offset : 1264
+#DEBUG vertex 80 structure offset : 1280
+#DEBUG vertex 81 structure offset : 1296
+#DEBUG vertex 82 structure offset : 1312
+#DEBUG vertex 83 structure offset : 1328
+#DEBUG vertex 84 structure offset : 1344
+#DEBUG vertex 85 structure offset : 1360
+#DEBUG vertex 86 structure offset : 1376
+#DEBUG vertex 87 structure offset : 1392
+#DEBUG vertex 88 structure offset : 1408
+#DEBUG vertex 89 structure offset : 1424
+#DEBUG vertex 90 structure offset : 1440
+#DEBUG vertex 91 structure offset : 1456
+#DEBUG vertex 92 structure offset : 1472
+#DEBUG vertex 93 structure offset : 1488
+#DEBUG vertex 94 structure offset : 1504
+#DEBUG vertex 95 structure offset : 1520
+#DEBUG vertex 96 structure offset : 1536
+#DEBUG vertex 97 structure offset : 1552
+#DEBUG vertex 98 structure offset : 1568
+#DEBUG vertex 99 structure offset : 1584
+#DEBUG vertex 100 structure offset : 1600
+#DEBUG vertex 101 structure offset : 1616
+#DEBUG vertex 102 structure offset : 1632
+#DEBUG vertex 103 structure offset : 1648
+#DEBUG vertex 104 structure offset : 1664
+#DEBUG vertex 105 structure offset : 1680
+#DEBUG vertex 106 structure offset : 1696
+#DEBUG vertex 107 structure offset : 1712
+#DEBUG vertex 108 structure offset : 1728
+#DEBUG vertex 109 structure offset : 1744
+#DEBUG vertex 110 structure offset : 1760
+#DEBUG vertex 111 structure offset : 1776
+#DEBUG vertex 112 structure offset : 1792
+#DEBUG vertex 113 structure offset : 1808
+#DEBUG vertex 114 structure offset : 1824
+#DEBUG vertex 115 structure offset : 1840
+#DEBUG vertex 116 structure offset : 1856
+#DEBUG vertex 117 structure offset : 1872
+#DEBUG vertex 118 structure offset : 1888
+#DEBUG vertex 119 structure offset : 1904
+#DEBUG vertex 120 structure offset : 1920
+#DEBUG vertex 121 structure offset : 1936
+#DEBUG vertex 122 structure offset : 1952
+#DEBUG vertex 123 structure offset : 1968
+#DEBUG vertex 124 structure offset : 1984
+#DEBUG vertex 125 structure offset : 2000
+#DEBUG vertex 126 structure offset : 2016
+#DEBUG vertex 127 structure offset : 2032
+#DEBUG vertex 128 structure offset : 2048
+#DEBUG vertex 129 structure offset : 2064
+#DEBUG vertex 130 structure offset : 2080
+#DEBUG vertex 131 structure offset : 2096
+#DEBUG vertex 132 structure offset : 2112
+#DEBUG vertex 133 structure offset : 2128
+#DEBUG vertex 134 structure offset : 2144
+#DEBUG vertex 135 structure offset : 2160
+#DEBUG vertex 136 structure offset : 2176
+#DEBUG vertex 137 structure offset : 2192
+#DEBUG vertex 138 structure offset : 2208
+#DEBUG vertex 139 structure offset : 2224
+#DEBUG vertex 140 structure offset : 2240
+#DEBUG vertex 141 structure offset : 2256
+#DEBUG vertex 142 structure offset : 2272
+#DEBUG vertex 143 structure offset : 2288
+#DEBUG vertex 144 structure offset : 2304
+#DEBUG vertex 145 structure offset : 2320
+#DEBUG vertex 146 structure offset : 2336
+#DEBUG vertex 147 structure offset : 2352
+#DEBUG vertex 148 structure offset : 2368
+#DEBUG vertex 149 structure offset : 2384
+#DEBUG vertex 150 structure offset : 2400
+#DEBUG vertex 151 structure offset : 2416
+#DEBUG vertex 152 structure offset : 2432
+#DEBUG vertex 153 structure offset : 2448
+#DEBUG vertex 154 structure offset : 2464
+#DEBUG vertex 155 structure offset : 2480
+#DEBUG vertex 156 structure offset : 2496
+#DEBUG vertex 157 structure offset : 2512
+#DEBUG vertex 158 structure offset : 2528
+#DEBUG vertex 159 structure offset : 2544
+#DEBUG vertex 160 structure offset : 2560
+#DEBUG vertex 161 structure offset : 2576
+#DEBUG vertex 162 structure offset : 2592
+#DEBUG vertex 163 structure offset : 2608
+#DEBUG vertex 164 structure offset : 2624
+#DEBUG vertex 165 structure offset : 2640
+#DEBUG vertex 166 structure offset : 2656
+#DEBUG vertex 167 structure offset : 2672
+#DEBUG vertex 168 structure offset : 2688
+#DEBUG vertex 169 structure offset : 2704
+#DEBUG vertex 170 structure offset : 2720
+#DEBUG vertex 171 structure offset : 2736
+#DEBUG vertex 172 structure offset : 2752
+#DEBUG vertex 173 structure offset : 2768
+#DEBUG vertex 174 structure offset : 2784
+#DEBUG vertex 175 structure offset : 2800
+#DEBUG vertex 176 structure offset : 2816
+#DEBUG vertex 177 structure offset : 2832
+#DEBUG vertex 178 structure offset : 2848
+#DEBUG vertex 179 structure offset : 2864
+#DEBUG vertex 180 structure offset : 2880
+#DEBUG vertex 181 structure offset : 2896
+#DEBUG vertex 182 structure offset : 2912
+#DEBUG vertex 183 structure offset : 2928
+#DEBUG vertex 184 structure offset : 2944
+#DEBUG vertex 185 structure offset : 2960
+#DEBUG vertex 186 structure offset : 2976
+#DEBUG vertex 187 structure offset : 2992
+#DEBUG vertex 188 structure offset : 3008
+#DEBUG vertex 189 structure offset : 3024
+#DEBUG vertex 190 structure offset : 3040
+#DEBUG vertex 191 structure offset : 3056
+#DEBUG vertex 192 structure offset : 3072
+#DEBUG vertex 193 structure offset : 3088
+#DEBUG vertex 194 structure offset : 3104
+#DEBUG vertex 195 structure offset : 3120
+#DEBUG vertex 196 structure offset : 3136
+#DEBUG vertex 197 structure offset : 3152
+#DEBUG vertex 198 structure offset : 3168
+#DEBUG vertex 199 structure offset : 3184
+#DEBUG vertex 200 structure offset : 3200
+#DEBUG vertex 201 structure offset : 3216
+#DEBUG vertex 202 structure offset : 3232
+#DEBUG vertex 203 structure offset : 3248
+#DEBUG vertex 204 structure offset : 3264
+#DEBUG vertex 205 structure offset : 3280
+#DEBUG vertex 206 structure offset : 3296
+#DEBUG vertex 207 structure offset : 3312
+#DEBUG vertex 208 structure offset : 3328
+#DEBUG vertex 209 structure offset : 3344
+#DEBUG vertex 210 structure offset : 3360
+#DEBUG vertex 211 structure offset : 3376
+#DEBUG vertex 212 structure offset : 3392
+#DEBUG vertex 213 structure offset : 3408
+#DEBUG vertex 214 structure offset : 3424
+#DEBUG vertex 215 structure offset : 3440
+#DEBUG vertex 216 structure offset : 3456
+#DEBUG vertex 217 structure offset : 3472
+#DEBUG vertex 218 structure offset : 3488
+#DEBUG vertex 219 structure offset : 3504
+#DEBUG vertex 220 structure offset : 3520
+#DEBUG vertex 221 structure offset : 3536
+#DEBUG vertex 222 structure offset : 3552
+#DEBUG vertex 223 structure offset : 3568
+#DEBUG vertex 224 structure offset : 3584
+#DEBUG vertex 225 structure offset : 3600
+#DEBUG vertex 226 structure offset : 3616
+#DEBUG vertex 227 structure offset : 3632
+#DEBUG vertex 228 structure offset : 3648
+#DEBUG vertex 229 structure offset : 3664
+#DEBUG vertex 230 structure offset : 3680
+#DEBUG vertex 231 structure offset : 3696
+#DEBUG vertex 232 structure offset : 3712
+#DEBUG vertex 233 structure offset : 3728
+#DEBUG vertex 234 structure offset : 3744
+#DEBUG vertex 235 structure offset : 3760
+#DEBUG vertex 236 structure offset : 3776
+#DEBUG vertex 237 structure offset : 3792
+#DEBUG vertex 238 structure offset : 3808
+#DEBUG vertex 239 structure offset : 3824
+#DEBUG vertex 240 structure offset : 3840
+#DEBUG vertex 241 structure offset : 3856
+#DEBUG vertex 242 structure offset : 3872
+#DEBUG vertex 243 structure offset : 3888
+#DEBUG vertex 244 structure offset : 3904
+#DEBUG vertex 245 structure offset : 3920
+#DEBUG vertex 246 structure offset : 3936
+#DEBUG vertex 247 structure offset : 3952
+#DEBUG vertex 248 structure offset : 3968
+#DEBUG vertex 249 structure offset : 3984
+#DEBUG vertex 250 structure offset : 4000
+#DEBUG vertex 251 structure offset : 4016
+#DEBUG vertex 252 structure offset : 4032
+#DEBUG vertex 253 structure offset : 4048
+#DEBUG vertex 254 structure offset : 4064
+#DEBUG vertex 255 structure offset : 4080
+#DEBUG vertex 256 structure offset : 4096
+#DEBUG vertex 257 structure offset : 4112
+#DEBUG vertex 258 structure offset : 4128
+#DEBUG vertex 259 structure offset : 4144
+#DEBUG vertex 260 structure offset : 4160
+#DEBUG vertex 261 structure offset : 4176
+#DEBUG vertex 262 structure offset : 4192
+#DEBUG vertex 263 structure offset : 4208
+#DEBUG vertex 264 structure offset : 4224
+#DEBUG vertex 265 structure offset : 4240
+#DEBUG vertex 266 structure offset : 4256
+#DEBUG vertex 267 structure offset : 4272
+#DEBUG vertex 268 structure offset : 4288
+#DEBUG vertex 269 structure offset : 4304
+#DEBUG vertex 270 structure offset : 4320
+#DEBUG vertex 271 structure offset : 4336
+#DEBUG vertex 272 structure offset : 4352
+#DEBUG vertex 273 structure offset : 4368
+#DEBUG vertex 274 structure offset : 4384
+#DEBUG vertex 275 structure offset : 4400
+#DEBUG vertex 276 structure offset : 4416
+#DEBUG vertex 277 structure offset : 4432
+#DEBUG vertex 278 structure offset : 4448
+#DEBUG vertex 279 structure offset : 4464
+#DEBUG vertex 280 structure offset : 4480
+#DEBUG vertex 281 structure offset : 4496
+#DEBUG vertex 282 structure offset : 4512
+#DEBUG vertex 283 structure offset : 4528
+#DEBUG vertex 284 structure offset : 4544
+#DEBUG vertex 285 structure offset : 4560
+#DEBUG vertex 286 structure offset : 4576
+#DEBUG vertex 287 structure offset : 4592
+#DEBUG vertex 288 structure offset : 4608
+#DEBUG vertex 289 structure offset : 4624
+#DEBUG vertex 290 structure offset : 4640
+#DEBUG vertex 291 structure offset : 4656
+#DEBUG vertex 292 structure offset : 4672
+#DEBUG vertex 293 structure offset : 4688
+#DEBUG vertex 294 structure offset : 4704
+#DEBUG vertex 295 structure offset : 4720
+#DEBUG vertex 296 structure offset : 4736
+#DEBUG vertex 297 structure offset : 4752
+#DEBUG vertex 298 structure offset : 4768
+#DEBUG vertex 299 structure offset : 4784
+#DEBUG vertex 300 structure offset : 4800
+#DEBUG vertex 301 structure offset : 4816
+#DEBUG vertex 302 structure offset : 4832
+#DEBUG vertex 303 structure offset : 4848
+#DEBUG vertex 304 structure offset : 4864
+#DEBUG vertex 305 structure offset : 4880
+#DEBUG vertex 306 structure offset : 4896
+#DEBUG vertex 307 structure offset : 4912
+#DEBUG vertex 308 structure offset : 4928
+#DEBUG vertex 309 structure offset : 4944
+#DEBUG vertex 310 structure offset : 4960
+#DEBUG vertex 311 structure offset : 4976
+#DEBUG vertex 312 structure offset : 4992
+#DEBUG vertex 313 structure offset : 5008
+#DEBUG vertex 314 structure offset : 5024
+#DEBUG vertex 315 structure offset : 5040
+#DEBUG vertex 316 structure offset : 5056
+#DEBUG vertex 317 structure offset : 5072
+#DEBUG vertex 318 structure offset : 5088
+#DEBUG vertex 319 structure offset : 5104
+#DEBUG vertex 320 structure offset : 5120
+#DEBUG vertex 321 structure offset : 5136
+#DEBUG vertex 322 structure offset : 5152
+#DEBUG vertex 323 structure offset : 5168
+#DEBUG vertex 324 structure offset : 5184
+#DEBUG vertex 325 structure offset : 5200
+#DEBUG vertex 326 structure offset : 5216
+#DEBUG vertex 327 structure offset : 5232
+#DEBUG vertex 328 structure offset : 5248
+#DEBUG vertex 329 structure offset : 5264
+#DEBUG vertex 330 structure offset : 5280
+#DEBUG vertex 331 structure offset : 5296
+#DEBUG vertex 332 structure offset : 5312
+#DEBUG vertex 333 structure offset : 5328
+#DEBUG vertex 334 structure offset : 5344
+#DEBUG vertex 335 structure offset : 5360
+#DEBUG vertex 336 structure offset : 5376
+#DEBUG vertex 337 structure offset : 5392
+#DEBUG vertex 338 structure offset : 5408
+#DEBUG vertex 339 structure offset : 5424
+#DEBUG vertex 340 structure offset : 5440
+#DEBUG vertex 341 structure offset : 5456
+#DEBUG vertex 342 structure offset : 5472
+#DEBUG vertex 343 structure offset : 5488
+#DEBUG vertex 344 structure offset : 5504
+#DEBUG vertex 345 structure offset : 5520
+#DEBUG vertex 346 structure offset : 5536
+#DEBUG vertex 347 structure offset : 5552
+#DEBUG vertex 348 structure offset : 5568
+#DEBUG vertex 349 structure offset : 5584
+#DEBUG vertex 350 structure offset : 5600
+#DEBUG vertex 351 structure offset : 5616
+#DEBUG vertex 352 structure offset : 5632
+#DEBUG vertex 353 structure offset : 5648
+#DEBUG vertex 354 structure offset : 5664
+#DEBUG vertex 355 structure offset : 5680
+#DEBUG vertex 356 structure offset : 5696
+#DEBUG vertex 357 structure offset : 5712
+#DEBUG vertex 358 structure offset : 5728
+#DEBUG vertex 359 structure offset : 5744
+#DEBUG vertex 360 structure offset : 5760
+#DEBUG vertex 361 structure offset : 5776
+#DEBUG vertex 362 structure offset : 5792
+#DEBUG vertex 363 structure offset : 5808
+#DEBUG vertex 364 structure offset : 5824
+#DEBUG vertex 365 structure offset : 5840
+#DEBUG vertex 366 structure offset : 5856
+#DEBUG vertex 367 structure offset : 5872
+#DEBUG vertex 368 structure offset : 5888
+#DEBUG vertex 369 structure offset : 5904
+#DEBUG vertex 370 structure offset : 5920
+#DEBUG vertex 371 structure offset : 5936
+#DEBUG vertex 372 structure offset : 5952
+#DEBUG vertex 373 structure offset : 5968
+#DEBUG vertex 374 structure offset : 5984
+#DEBUG vertex 375 structure offset : 6000
+#DEBUG vertex 376 structure offset : 6016
+#DEBUG vertex 377 structure offset : 6032
+#DEBUG vertex 378 structure offset : 6048
+#DEBUG vertex 379 structure offset : 6064
+#DEBUG vertex 380 structure offset : 6080
+#DEBUG vertex 381 structure offset : 6096
+#DEBUG vertex 382 structure offset : 6112
+#DEBUG vertex 383 structure offset : 6128
+#DEBUG vertex 384 structure offset : 6144
+#DEBUG vertex 385 structure offset : 6160
+#DEBUG vertex 386 structure offset : 6176
+#DEBUG vertex 387 structure offset : 6192
+#DEBUG vertex 388 structure offset : 6208
+#DEBUG vertex 389 structure offset : 6224
+#DEBUG vertex 390 structure offset : 6240
+#DEBUG vertex 391 structure offset : 6256
+#DEBUG vertex 392 structure offset : 6272
+#DEBUG vertex 393 structure offset : 6288
+#DEBUG vertex 394 structure offset : 6304
+#DEBUG vertex 395 structure offset : 6320
+#DEBUG vertex 396 structure offset : 6336
+#DEBUG vertex 397 structure offset : 6352
+#DEBUG vertex 398 structure offset : 6368
+#DEBUG vertex 399 structure offset : 6384
+#DEBUG vertex 400 structure offset : 6400
+#DEBUG vertex 401 structure offset : 6416
+#DEBUG vertex 402 structure offset : 6432
+#DEBUG vertex 403 structure offset : 6448
+#DEBUG vertex 404 structure offset : 6464
+#DEBUG vertex 405 structure offset : 6480
+#DEBUG vertex 406 structure offset : 6496
+#DEBUG vertex 407 structure offset : 6512
+#DEBUG vertex 408 structure offset : 6528
+#DEBUG vertex 409 structure offset : 6544
+#DEBUG vertex 410 structure offset : 6560
+#DEBUG vertex 411 structure offset : 6576
+#DEBUG vertex 412 structure offset : 6592
+#DEBUG vertex 413 structure offset : 6608
+#DEBUG vertex 414 structure offset : 6624
+#DEBUG vertex 415 structure offset : 6640
+#DEBUG vertex 416 structure offset : 6656
+#DEBUG vertex 417 structure offset : 6672
+#DEBUG vertex 418 structure offset : 6688
+#DEBUG vertex 419 structure offset : 6704
+#DEBUG vertex 420 structure offset : 6720
+#DEBUG vertex 421 structure offset : 6736
+#DEBUG vertex 422 structure offset : 6752
+#DEBUG vertex 423 structure offset : 6768
+#DEBUG vertex 424 structure offset : 6784
+#DEBUG vertex 425 structure offset : 6800
+#DEBUG vertex 426 structure offset : 6816
+#DEBUG vertex 427 structure offset : 6832
+#DEBUG vertex 428 structure offset : 6848
+#DEBUG vertex 429 structure offset : 6864
+#DEBUG vertex 430 structure offset : 6880
+#DEBUG vertex 431 structure offset : 6896
+#DEBUG vertex 432 structure offset : 6912
+#DEBUG vertex 433 structure offset : 6928
+#DEBUG vertex 434 structure offset : 6944
+#DEBUG vertex 435 structure offset : 6960
+#DEBUG vertex 436 structure offset : 6976
+#DEBUG vertex 437 structure offset : 6992
+#DEBUG vertex 438 structure offset : 7008
+#DEBUG vertex 439 structure offset : 7024
+#DEBUG vertex 440 structure offset : 7040
+# Mistery 1: c230e7bb Mistery 2: 30aa0000
+# Mistery 1: 35b730a6 Mistery 2: 24bb003c
+# Mistery 1: 0c30e7bb Mistery 2: e2ad0000
+# Mistery 1: b4b80900 Mistery 2: 79ba003c
+# Mistery 1: b3349cbb Mistery 2: 1cae0000
+# Mistery 1: 0cb7e4a9 Mistery 2: 2cbb003c
+# Mistery 1: ff339cbb Mistery 2: d0b10000
+# Mistery 1: b4b80780 Mistery 2: 79ba003c
+# Mistery 1: e22de7bb Mistery 2: 0db00000
+# Mistery 1: 79ba0680 Mistery 2: b4b8003c
+# Mistery 1: e83621bb Mistery 2: 7db00000
+# Mistery 1: cab60fac Mistery 2: 3abb003c
+# Mistery 1: cf319cbb Mistery 2: 00b40000
+# Mistery 1: 79ba0b00 Mistery 2: b4b8003c
+# Mistery 1: e03521bb Mistery 2: 45b40000
+# Mistery 1: b4b80600 Mistery 2: 79ba003c
+# Mistery 1: 783879ba Mistery 2: d0b10000
+# Mistery 1: 78b6c8ac Mistery 2: 4bbb003c
+# Mistery 1: 9b3779ba Mistery 2: 87b50000
+# Mistery 1: b4b80580 Mistery 2: 79ba003c
+# Mistery 1: 6139a8b9 Mistery 2: feb20000
+# Mistery 1: 1cb609ad Mistery 2: 5ebb003c
+# Mistery 1: 443421bb Mistery 2: e0b50000
+# Mistery 1: 79ba0600 Mistery 2: b4b8003c
+# Mistery 1: 1c2e9cbb Mistery 2: b4b40000
+# Mistery 1: 9cbb0a00 Mistery 2: f2b4003c
+# Mistery 1: 2f2ae7bb Mistery 2: c3b00000
+# Mistery 1: 9cbb0980 Mistery 2: f2b4003c
+# Mistery 1: 0000e7bb Mistery 2: 01b10000
+# Mistery 1: 00bc0300 Mistery 2: 1580003c
+# Mistery 1: 00009cbb Mistery 2: f2b40000
+# Mistery 1: 00bc0000 Mistery 2: 0480003c
+# Mistery 1: 30aae7bb Mistery 2: c3b00000
+# Mistery 1: 9cbb0900 Mistery 2: f134003c
+# Mistery 1: 7d3021bb Mistery 2: e8b60000
+# Mistery 1: 9cbb1580 Mistery 2: f2b4003c
+# Mistery 1: 863579ba Mistery 2: 9cb70000
+# Mistery 1: 79ba0400 Mistery 2: b4b8003c
+# Mistery 1: 9338a8b9 Mistery 2: a6b60000
+# Mistery 1: b4b80280 Mistery 2: 79ba003c
+# Mistery 1: 273ab4b8 Mistery 2: 00b40000
+# Mistery 1: c1b5cdac Mistery 2: 71bb003c
+# Mistery 1: 3c39b4b8 Mistery 2: 9cb70000
+# Mistery 1: b4b80a00 Mistery 2: 79ba003c
+# Mistery 1: c73a44b7 Mistery 2: 68b40000
+# Mistery 1: 6db517ac Mistery 2: 82bb003c
+# Mistery 1: a636a8b9 Mistery 2: 93b80000
+# Mistery 1: 79ba0600 Mistery 2: b4b8003c
+# Mistery 1: cf3179ba Mistery 2: 79b80000
+# Mistery 1: 9cbb0300 Mistery 2: f2b4003c
+# Mistery 1: 018021bb Mistery 2: 43b70000
+# Mistery 1: 00bc0e00 Mistery 2: 1a80003c
+# Mistery 1: 1cae9cbb Mistery 2: b4b40000
+# Mistery 1: 9cbb0f80 Mistery 2: f134003c
+# Mistery 1: e2ade7bb Mistery 2: 0db00000
+# Mistery 1: 79ba0280 Mistery 2: b338003c
+# Mistery 1: d0b19cbb Mistery 2: 00b40000
+# Mistery 1: 79ba0580 Mistery 2: b338003c
+# Mistery 1: 0db0e7bb Mistery 2: e2ad0000
+# Mistery 1: b4b80000 Mistery 2: 783a003c
+# Mistery 1: 7db021bb Mistery 2: e8b60000
+# Mistery 1: 9cbb0980 Mistery 2: f134003c
+# Mistery 1: 028079ba Mistery 2: b4b80000
+# Mistery 1: 00bc0380 Mistery 2: 0800003c
+# Mistery 1: fd32a8b9 Mistery 2: 61b90000
+# Mistery 1: 9cbb0700 Mistery 2: f2b4003c
+# Mistery 1: 9b37b4b8 Mistery 2: 3cb90000
+# Mistery 1: 79ba0680 Mistery 2: b4b8003c
+# Mistery 1: c43944b7 Mistery 2: 31b80000
+# Mistery 1: b4b80d80 Mistery 2: 79ba003c
+# Mistery 1: 3c3bf2b4 Mistery 2: b4b40000
+# Mistery 1: 2bb5f4a9 Mistery 2: 90bb003c
+# Mistery 1: 273af2b4 Mistery 2: 79b80000
+# Mistery 1: b4b80300 Mistery 2: 79ba003c
+# Mistery 1: 833b02b1 Mistery 2: e2b40000
+# Mistery 1: 00b543a6 Mistery 2: 99bb003c
+# Mistery 1: 303844b7 Mistery 2: c4b90000
+# Mistery 1: 79ba0780 Mistery 2: b4b8003c
+# Mistery 1: ff33b4b8 Mistery 2: 28ba0000
+# Mistery 1: 9cbb0580 Mistery 2: f2b4003c
+# Mistery 1: 0000a8b9 Mistery 2: a8b90000
+# Mistery 1: 00bc0b80 Mistery 2: 0a00003c
+# Mistery 1: d0b179ba Mistery 2: 79b80000
+# Mistery 1: 9cbb0680 Mistery 2: f134003c
+# Mistery 1: 45b421bb Mistery 2: e0b50000
+# Mistery 1: 79ba0300 Mistery 2: b338003c
+# Mistery 1: 00b49cbb Mistery 2: d0b10000
+# Mistery 1: b4b80b00 Mistery 2: 783a003c
+# Mistery 1: c3b0e7bb Mistery 2: 30aa0000
+# Mistery 1: f2b40580 Mistery 2: 9b3b003c
+# Mistery 1: b4b49cbb Mistery 2: 1cae0000
+# Mistery 1: f2b40800 Mistery 2: 9b3b003c
+# Mistery 1: 01b1e7bb Mistery 2: 00000000
+# Mistery 1: 0c800200 Mistery 2: 003c003c
+# Mistery 1: e0b521bb Mistery 2: 45b40000
+# Mistery 1: b4b81000 Mistery 2: 783a003c
+# Mistery 1: 87b579ba Mistery 2: 9cb70000
+# Mistery 1: 79ba0100 Mistery 2: b338003c
+# Mistery 1: feb2a8b9 Mistery 2: 61b90000
+# Mistery 1: 9cbb0100 Mistery 2: f134003c
+# Mistery 1: 0000b4b8 Mistery 2: 79ba0000
+# Mistery 1: 00bc0080 Mistery 2: 0180003c
+# Mistery 1: 673444b7 Mistery 2: c7ba0000
+# Mistery 1: 9cbb0d00 Mistery 2: f2b4003c
+# Mistery 1: 7838f2b4 Mistery 2: 28ba0000
+# Mistery 1: 79ba0c00 Mistery 2: b4b8003c
+# Mistery 1: 643a02b1 Mistery 2: a5b80000
+# Mistery 1: b4b80600 Mistery 2: 79ba003c
+# Mistery 1: 9b3b0000 Mistery 2: f2b40000
+# Mistery 1: f2b40000 Mistery 2: 9cbb003c
+# Mistery 1: 783a0000 Mistery 2: b4b80000
+# Mistery 1: b4b80000 Mistery 2: 79ba003c
+# Mistery 1: 833b0131 Mistery 2: e2b40000
+# Mistery 1: 00b54326 Mistery 2: 99bb003c
+# Mistery 1: a43802b1 Mistery 2: 64ba0000
+# Mistery 1: 79ba0180 Mistery 2: b4b8003c
+# Mistery 1: b334f2b4 Mistery 2: 3cbb0000
+# Mistery 1: 9cbb0180 Mistery 2: f2b4003c
+# Mistery 1: 018044b7 Mistery 2: 21bb0000
+# Mistery 1: 00bc1080 Mistery 2: 0900003c
+# Mistery 1: 00b4b4b8 Mistery 2: 28ba0000
+# Mistery 1: 9cbb0180 Mistery 2: f134003c
+# Mistery 1: a6b6a8b9 Mistery 2: 93b80000
+# Mistery 1: 79ba0a80 Mistery 2: b338003c
+# Mistery 1: 9cb779ba Mistery 2: 87b50000
+# Mistery 1: b4b80200 Mistery 2: 783a003c
+# Mistery 1: e8b621bb Mistery 2: 7db00000
+# Mistery 1: f2b41580 Mistery 2: 9b3b003c
+# Mistery 1: f2b49cbb Mistery 2: 00000000
+# Mistery 1: 03800100 Mistery 2: 003c003c
+# Mistery 1: c3b0e7bb Mistery 2: 2f2a0000
+# Mistery 1: f1340e00 Mistery 2: 9b3b003c
+# Mistery 1: b4b49cbb Mistery 2: 1c2e0000
+# Mistery 1: f1340780 Mistery 2: 9b3b003c
+# Mistery 1: 0db0e7bb Mistery 2: e22d0000
+# Mistery 1: b3380c80 Mistery 2: 783a003c
+# Mistery 1: 43b721bb Mistery 2: 01800000
+# Mistery 1: 1c800d00 Mistery 2: 003c003c
+# Mistery 1: 79b879ba Mistery 2: d0b10000
+# Mistery 1: f2b40600 Mistery 2: 9b3b003c
+# Mistery 1: 93b8a8b9 Mistery 2: a6b60000
+# Mistery 1: b4b80700 Mistery 2: 783a003c
+# Mistery 1: 9cb7b4b8 Mistery 2: 3cb90000
+# Mistery 1: 79ba0900 Mistery 2: b338003c
+# Mistery 1: 68b444b7 Mistery 2: c7ba0000
+# Mistery 1: 9cbb1200 Mistery 2: f134003c
+# Mistery 1: 0280f2b4 Mistery 2: 9cbb0000
+# Mistery 1: 00bc0200 Mistery 2: 0200003c
+# Mistery 1: e23402b1 Mistery 2: 84bb0000
+# Mistery 1: 9cbb0680 Mistery 2: f2b4003c
+# Mistery 1: b3380000 Mistery 2: 79ba0000
+# Mistery 1: 79ba9a87 Mistery 2: b4b8003c
+# Mistery 1: 643a0131 Mistery 2: a5b80000
+# Mistery 1: b4b80100 Mistery 2: 79ba003c
+# Mistery 1: 3c3bf134 Mistery 2: b4b40000
+# Mistery 1: 2bb5f329 Mistery 2: 90bb003c
+# Mistery 1: 273af134 Mistery 2: 79b80000
+# Mistery 1: b4b80d00 Mistery 2: 79ba003c
+# Mistery 1: c73a4337 Mistery 2: 68b40000
+# Mistery 1: 6db5172c Mistery 2: 82bb003c
+# Mistery 1: a4380131 Mistery 2: 64ba0000
+# Mistery 1: 79ba0600 Mistery 2: b4b8003c
+# Mistery 1: f1340000 Mistery 2: 9cbb0000
+# Mistery 1: 9cbb5a85 Mistery 2: f2b4003c
+# Mistery 1: 018002b1 Mistery 2: e7bb0000
+# Mistery 1: 00bc0100 Mistery 2: 0000003c
+# Mistery 1: b4b4f2b4 Mistery 2: 3cbb0000
+# Mistery 1: 9cbb0c80 Mistery 2: f134003c
+# Mistery 1: 31b844b7 Mistery 2: c4b90000
+# Mistery 1: 79ba0980 Mistery 2: b338003c
+# Mistery 1: 3cb9b4b8 Mistery 2: 9cb70000
+# Mistery 1: b4b80280 Mistery 2: 783a003c
+# Mistery 1: 61b9a8b9 Mistery 2: feb20000
+# Mistery 1: f2b40e00 Mistery 2: 9b3b003c
+# Mistery 1: b4b879ba Mistery 2: 01800000
+# Mistery 1: 04000480 Mistery 2: ff3b003c
+# Mistery 1: e8b621bb Mistery 2: 7d300000
+# Mistery 1: f1340c80 Mistery 2: 9b3b003c
+# Mistery 1: 00b49cbb Mistery 2: cf310000
+# Mistery 1: b3380580 Mistery 2: 783a003c
+# Mistery 1: e2ade7bb Mistery 2: 0c300000
+# Mistery 1: 783a1480 Mistery 2: b338003c
+# Mistery 1: d0b19cbb Mistery 2: ff330000
+# Mistery 1: 783a0c00 Mistery 2: b338003c
+# Mistery 1: 30aae7bb Mistery 2: c2300000
+# Mistery 1: 9b3b0680 Mistery 2: f134003c
+# Mistery 1: e0b521bb Mistery 2: 44340000
+# Mistery 1: b3380100 Mistery 2: 783a003c
+# Mistery 1: 79b879ba Mistery 2: cf310000
+# Mistery 1: f1340880 Mistery 2: 9b3b003c
+# Mistery 1: a8b9a8b9 Mistery 2: 00000000
+# Mistery 1: 0e000e80 Mistery 2: 003c003c
+# Mistery 1: 28bab4b8 Mistery 2: 00b40000
+# Mistery 1: f2b40580 Mistery 2: 9b3b003c
+# Mistery 1: c4b944b7 Mistery 2: 31b80000
+# Mistery 1: b4b80880 Mistery 2: 783a003c
+# Mistery 1: 79b8f2b4 Mistery 2: 28ba0000
+# Mistery 1: 79ba0200 Mistery 2: b338003c
+# Mistery 1: e2b402b1 Mistery 2: 84bb0000
+# Mistery 1: 9cbb0280 Mistery 2: f134003c
+# Mistery 1: 00000080 Mistery 2: 00bc0000
+# Mistery 1: 00bc0180 Mistery 2: 0180003c
+# Mistery 1: e2340131 Mistery 2: 84bb0000
+# Mistery 1: 9cbb0280 Mistery 2: f2b4003c
+# Mistery 1: 7838f134 Mistery 2: 28ba0000
+# Mistery 1: 79ba0180 Mistery 2: b4b8003c
+# Mistery 1: c4394337 Mistery 2: 31b80000
+# Mistery 1: b4b80a80 Mistery 2: 79ba003c
+# Mistery 1: 273ab338 Mistery 2: 00b40000
+# Mistery 1: c1b5cc2c Mistery 2: 71bb003c
+# Mistery 1: 3c39b338 Mistery 2: 9cb70000
+# Mistery 1: b4b80b80 Mistery 2: 79ba003c
+# Mistery 1: 6139a839 Mistery 2: feb20000
+# Mistery 1: 1cb6092d Mistery 2: 5ebb003c
+# Mistery 1: 30384337 Mistery 2: c4b90000
+# Mistery 1: 79ba0680 Mistery 2: b4b8003c
+# Mistery 1: b334f134 Mistery 2: 3cbb0000
+# Mistery 1: 9cbb0d80 Mistery 2: f2b4003c
+# Mistery 1: 01800131 Mistery 2: e7bb0000
+# Mistery 1: 00bc0100 Mistery 2: 0000003c
+# Mistery 1: f2b40080 Mistery 2: 9cbb0000
+# Mistery 1: 9cbbda80 Mistery 2: f134003c
+# Mistery 1: a5b802b1 Mistery 2: 64ba0000
+# Mistery 1: 79ba0500 Mistery 2: b338003c
+# Mistery 1: 28baf2b4 Mistery 2: 79b80000
+# Mistery 1: b4b80800 Mistery 2: 783a003c
+# Mistery 1: c7ba44b7 Mistery 2: 68b40000
+# Mistery 1: f2b40a00 Mistery 2: 9b3b003c
+# Mistery 1: 79bab4b8 Mistery 2: 00000000
+# Mistery 1: 00000180 Mistery 2: 003c003c
+# Mistery 1: 61b9a8b9 Mistery 2: fd320000
+# Mistery 1: f1340100 Mistery 2: 9b3b003c
+# Mistery 1: 9cb779ba Mistery 2: 86350000
+# Mistery 1: b3380600 Mistery 2: 783a003c
+# Mistery 1: 45b421bb Mistery 2: e0350000
+# Mistery 1: 783a0d00 Mistery 2: b338003c
+# Mistery 1: 1cae9cbb Mistery 2: b3340000
+# Mistery 1: 9b3b0b00 Mistery 2: f134003c
+# Mistery 1: 0000e7bb Mistery 2: 01310000
+# Mistery 1: ff3b0100 Mistery 2: 0700003c
+# Mistery 1: 01009cbb Mistery 2: f1340000
+# Mistery 1: 003c0000 Mistery 2: 0580003c
+# Mistery 1: 2f2ae7bb Mistery 2: c2300000
+# Mistery 1: 9b3b1100 Mistery 2: f2b4003c
+# Mistery 1: 7db021bb Mistery 2: e8360000
+# Mistery 1: 9b3b1580 Mistery 2: f134003c
+# Mistery 1: 87b579ba Mistery 2: 9b370000
+# Mistery 1: 783a0200 Mistery 2: b338003c
+# Mistery 1: 93b8a8b9 Mistery 2: a6360000
+# Mistery 1: b3380780 Mistery 2: 783a003c
+# Mistery 1: 28bab4b8 Mistery 2: ff330000
+# Mistery 1: f1340180 Mistery 2: 9b3b003c
+# Mistery 1: 21bb44b7 Mistery 2: 00800000
+# Mistery 1: 06000c80 Mistery 2: 003c003c
+# Mistery 1: 3cbbf2b4 Mistery 2: b4b40000
+# Mistery 1: f2b40180 Mistery 2: 9b3b003c
+# Mistery 1: 64ba02b1 Mistery 2: a5b80000
+# Mistery 1: b4b80080 Mistery 2: 783a003c
+# Mistery 1: b4b80000 Mistery 2: 79ba0000
+# Mistery 1: 79ba0000 Mistery 2: b338003c
+# Mistery 1: e2b40131 Mistery 2: 84bb0000
+# Mistery 1: 9cbb0580 Mistery 2: f134003c
+# Mistery 1: 0380f134 Mistery 2: 9cbb0000
+# Mistery 1: 00bc0300 Mistery 2: 0400003c
+# Mistery 1: 67344337 Mistery 2: c7ba0000
+# Mistery 1: 9cbb1300 Mistery 2: f2b4003c
+# Mistery 1: 9b37b338 Mistery 2: 3cb90000
+# Mistery 1: 79ba0c00 Mistery 2: b4b8003c
+# Mistery 1: 9338a839 Mistery 2: a6b60000
+# Mistery 1: b4b80a00 Mistery 2: 79ba003c
+# Mistery 1: 7838783a Mistery 2: d0b10000
+# Mistery 1: 78b6c72c Mistery 2: 4bbb003c
+# Mistery 1: 9b37783a Mistery 2: 87b50000
+# Mistery 1: b4b80300 Mistery 2: 79ba003c
+# Mistery 1: e836203b Mistery 2: 7db00000
+# Mistery 1: cab60f2c Mistery 2: 3abb003c
+# Mistery 1: a636a839 Mistery 2: 94b80000
+# Mistery 1: 79ba0480 Mistery 2: b4b8003c
+# Mistery 1: ff33b338 Mistery 2: 28ba0000
+# Mistery 1: 9cbb0180 Mistery 2: f2b4003c
+# Mistery 1: 01804337 Mistery 2: 21bb0000
+# Mistery 1: 00bc1080 Mistery 2: 0780003c
+# Mistery 1: b4b4f134 Mistery 2: 3cbb0000
+# Mistery 1: 9cbb0280 Mistery 2: f134003c
+# Mistery 1: a5b80131 Mistery 2: 64ba0000
+# Mistery 1: 79ba0000 Mistery 2: b338003c
+# Mistery 1: 79ba0000 Mistery 2: b4b80000
+# Mistery 1: b4b8c980 Mistery 2: 783a003c
+# Mistery 1: 84bb02b1 Mistery 2: e2b40000
+# Mistery 1: f2b40580 Mistery 2: 9b3b003c
+# Mistery 1: 9cbbf2b4 Mistery 2: 00800000
+# Mistery 1: 01800300 Mistery 2: 003c003c
+# Mistery 1: c7ba44b7 Mistery 2: 67340000
+# Mistery 1: f1341100 Mistery 2: 9b3b003c
+# Mistery 1: 3cb9b4b8 Mistery 2: 9b370000
+# Mistery 1: b3380c00 Mistery 2: 783a003c
+# Mistery 1: a6b6a8b9 Mistery 2: 93380000
+# Mistery 1: 783a0500 Mistery 2: b338003c
+# Mistery 1: d0b179ba Mistery 2: 78380000
+# Mistery 1: 9b3b0000 Mistery 2: f134003c
+# Mistery 1: 010021bb Mistery 2: 43370000
+# Mistery 1: 003c0d00 Mistery 2: 1700003c
+# Mistery 1: 1c2e9cbb Mistery 2: b3340000
+# Mistery 1: 9b3b0f80 Mistery 2: f2b4003c
+# Mistery 1: e22de7bb Mistery 2: 0c300000
+# Mistery 1: 783a0600 Mistery 2: b4b8003c
+# Mistery 1: cf319cbb Mistery 2: ff330000
+# Mistery 1: 783a0f80 Mistery 2: b4b8003c
+# Mistery 1: 0c30e7bb Mistery 2: e22d0000
+# Mistery 1: b3380f80 Mistery 2: 79ba003c
+# Mistery 1: 7d3021bb Mistery 2: e8360000
+# Mistery 1: 9b3b0b80 Mistery 2: f2b4003c
+# Mistery 1: 000079ba Mistery 2: b3380000
+# Mistery 1: ff3b0180 Mistery 2: 0280003c
+# Mistery 1: feb2a8b9 Mistery 2: 61390000
+# Mistery 1: 9b3b0a00 Mistery 2: f134003c
+# Mistery 1: 9cb7b4b8 Mistery 2: 3c390000
+# Mistery 1: 783a0580 Mistery 2: b338003c
+# Mistery 1: c4b944b7 Mistery 2: 30380000
+# Mistery 1: b3380780 Mistery 2: 783a003c
+# Mistery 1: 3cbbf2b4 Mistery 2: b3340000
+# Mistery 1: f1340d80 Mistery 2: 9b3b003c
+# Mistery 1: e7bb02b1 Mistery 2: 00800000
+# Mistery 1: 00800000 Mistery 2: 003c003c
+# Mistery 1: 9cbb0000 Mistery 2: f2b40000
+# Mistery 1: f2b46c80 Mistery 2: 9b3b003c
+# Mistery 1: 64ba0131 Mistery 2: a5b80000
+# Mistery 1: b4b80400 Mistery 2: 783a003c
+# Mistery 1: 79b8f134 Mistery 2: 28ba0000
+# Mistery 1: 79ba0800 Mistery 2: b338003c
+# Mistery 1: 68b44337 Mistery 2: c7ba0000
+# Mistery 1: 9cbb0b00 Mistery 2: f134003c
+# Mistery 1: 0100b338 Mistery 2: 79ba0000
+# Mistery 1: 00bc0080 Mistery 2: 0280003c
+# Mistery 1: fd32a839 Mistery 2: 61b90000
+# Mistery 1: 9cbb0100 Mistery 2: f2b4003c
+# Mistery 1: 8735783a Mistery 2: 9cb70000
+# Mistery 1: 79ba0500 Mistery 2: b4b8003c
+# Mistery 1: e035203b Mistery 2: 45b40000
+# Mistery 1: b4b80400 Mistery 2: 79ba003c
+# Mistery 1: b3349b3b Mistery 2: 1cae0000
+# Mistery 1: 0cb7e429 Mistery 2: 2cbb003c
+# Mistery 1: ff339b3b Mistery 2: d0b10000
+# Mistery 1: b4b81700 Mistery 2: 79ba003c
+# Mistery 1: c230e63b Mistery 2: 2faa0000
+# Mistery 1: 35b72f26 Mistery 2: 24bb003c
+# Mistery 1: 0c30e63b Mistery 2: e2ad0000
+# Mistery 1: b4b80e80 Mistery 2: 79ba003c
+# Mistery 1: cf319b3b Mistery 2: 00b40000
+# Mistery 1: 79ba0d80 Mistery 2: b4b8003c
+# Mistery 1: e12de63b Mistery 2: 0cb00000
+# Mistery 1: 79ba0200 Mistery 2: b4b8003c
+# Mistery 1: 4434203b Mistery 2: e0b50000
+# Mistery 1: 79ba0700 Mistery 2: b4b8003c
+# Mistery 1: cf31783a Mistery 2: 79b80000
+# Mistery 1: 9cbb0980 Mistery 2: f2b4003c
+# Mistery 1: 0180a839 Mistery 2: a8b90000
+# Mistery 1: 00bc0c80 Mistery 2: 0b80003c
+# Mistery 1: 00b4b338 Mistery 2: 28ba0000
+# Mistery 1: 9cbb0580 Mistery 2: f134003c
+# Mistery 1: 31b84337 Mistery 2: c4b90000
+# Mistery 1: 79ba0880 Mistery 2: b338003c
+# Mistery 1: 28baf134 Mistery 2: 79b80000
+# Mistery 1: b4b80100 Mistery 2: 783a003c
+# Mistery 1: 84bb0131 Mistery 2: e2b40000
+# Mistery 1: f2b40180 Mistery 2: 9b3b003c
+# Mistery 1: 00bc0000 Mistery 2: 00000000
+# Mistery 1: 00000000 Mistery 2: 003c003c
+# Mistery 1: 84bb02b1 Mistery 2: e2340000
+# Mistery 1: f1340180 Mistery 2: 9b3b003c
+# Mistery 1: 28baf2b4 Mistery 2: 78380000
+# Mistery 1: b3380000 Mistery 2: 783a003c
+# Mistery 1: 31b844b7 Mistery 2: c4390000
+# Mistery 1: 783a0b80 Mistery 2: b338003c
+# Mistery 1: 00b4b4b8 Mistery 2: 273a0000
+# Mistery 1: 9b3b0380 Mistery 2: f134003c
+# Mistery 1: 0100a8b9 Mistery 2: a8390000
+# Mistery 1: 003c0b80 Mistery 2: 0c80003c
+# Mistery 1: cf3179ba Mistery 2: 78380000
+# Mistery 1: 9b3b0980 Mistery 2: f2b4003c
+# Mistery 1: 443421bb Mistery 2: e0350000
+# Mistery 1: 783a0300 Mistery 2: b4b8003c
+# Mistery 1: ff339cbb Mistery 2: cf310000
+# Mistery 1: b3380600 Mistery 2: 79ba003c
+# Mistery 1: c230e7bb Mistery 2: 2f2a0000
+# Mistery 1: f1340c80 Mistery 2: 9cbb003c
+# Mistery 1: b3349cbb Mistery 2: 1c2e0000
+# Mistery 1: f1340400 Mistery 2: 9cbb003c
+# Mistery 1: 0131e7bb Mistery 2: 00000000
+# Mistery 1: 05000000 Mistery 2: 00bc003c
+# Mistery 1: e03521bb Mistery 2: 44340000
+# Mistery 1: b3380b00 Mistery 2: 79ba003c
+# Mistery 1: 863579ba Mistery 2: 9b370000
+# Mistery 1: 783a0300 Mistery 2: b4b8003c
+# Mistery 1: fd32a8b9 Mistery 2: 61390000
+# Mistery 1: 9b3b0000 Mistery 2: f2b4003c
+# Mistery 1: 0000b4b8 Mistery 2: 783a0000
+# Mistery 1: ff3b0280 Mistery 2: 0380003c
+# Mistery 1: 68b444b7 Mistery 2: c73a0000
+# Mistery 1: 9b3b0c00 Mistery 2: f134003c
+# Mistery 1: 79b8f2b4 Mistery 2: 273a0000
+# Mistery 1: 783a0800 Mistery 2: b338003c
+# Mistery 1: 64ba02b1 Mistery 2: a4380000
+# Mistery 1: b3380400 Mistery 2: 783a003c
+# Mistery 1: 9cbb0000 Mistery 2: f1340000
+# Mistery 1: f1340000 Mistery 2: 9b3b003c
+# Mistery 1: e7bb0131 Mistery 2: 00000000
+# Mistery 1: 00000000 Mistery 2: 003c003c
+# Mistery 1: 3cbbf134 Mistery 2: b4b40000
+# Mistery 1: f2b40c80 Mistery 2: 9b3b003c
+# Mistery 1: c4b94337 Mistery 2: 31b80000
+# Mistery 1: b4b80980 Mistery 2: 783a003c
+# Mistery 1: 9cb7b338 Mistery 2: 3cb90000
+# Mistery 1: 79ba0680 Mistery 2: b338003c
+# Mistery 1: feb2a839 Mistery 2: 61b90000
+# Mistery 1: 9cbb0900 Mistery 2: f134003c
+# Mistery 1: 0380783a Mistery 2: b4b80000
+# Mistery 1: 00bc0180 Mistery 2: 0400003c
+# Mistery 1: 7d30203b Mistery 2: e8b60000
+# Mistery 1: 9cbb0680 Mistery 2: f2b4003c
+# Mistery 1: 1c2e9b3b Mistery 2: b4b40000
+# Mistery 1: 9cbb0c80 Mistery 2: f2b4003c
+# Mistery 1: 2f2ae63b Mistery 2: c2b00000
+# Mistery 1: 9cbb0e00 Mistery 2: f2b4003c
+# Mistery 1: 00009b3b Mistery 2: f2b40000
+# Mistery 1: 00bc0000 Mistery 2: 0380003c
+# Mistery 1: 0000e63b Mistery 2: 01b10000
+# Mistery 1: 00bc0300 Mistery 2: 1200003c
+# Mistery 1: 0180203b Mistery 2: 43b70000
+# Mistery 1: 00bc0b00 Mistery 2: 1900003c
+# Mistery 1: d0b1783a Mistery 2: 79b80000
+# Mistery 1: 9cbb0100 Mistery 2: f134003c
+# Mistery 1: a6b6a839 Mistery 2: 94b80000
+# Mistery 1: 79ba0500 Mistery 2: b338003c
+# Mistery 1: 3cb9b338 Mistery 2: 9cb70000
+# Mistery 1: b4b80b00 Mistery 2: 783a003c
+# Mistery 1: c7ba4337 Mistery 2: 68b40000
+# Mistery 1: f2b41200 Mistery 2: 9b3b003c
+# Mistery 1: 9cbbf134 Mistery 2: 00800000
+# Mistery 1: 00000300 Mistery 2: ff3b003c
+# Mistery 1: 84bb0131 Mistery 2: e2340000
+#Number of vertex: 441
+v 0.09542850404977798 -0.6335211992263794 -0.031006984412670135 
+v 0.08117633312940598 -0.6335211992263794 -0.058978497982025146 
+v 0.18850871920585632 -0.6100256443023682 -0.061250362545251846 
+v 0.16035403311252594 -0.6100256443023682 -0.11650440096855164 
+v 0.0589781180024147 -0.6335211992263794 -0.08117685467004776 
+v 0.27694541215896606 -0.5715087652206421 -0.08998517692089081 
+v 0.11650402098894119 -0.6100256443023682 -0.1603546440601349 
+v 0.23558379709720612 -0.5715087652206421 -0.171161949634552 
+v 0.35856422781944275 -0.5189197659492493 -0.11650440096855164 
+v 0.30501243472099304 -0.5189197659492493 -0.22160544991493225 
+v 0.43135198950767517 -0.45355260372161865 -0.14015533030033112 
+v 0.17116133868694305 -0.5715087652206421 -0.23558394610881805 
+v 0.06124977022409439 -0.6100256443023682 -0.18850909173488617 
+v 0.03100648894906044 -0.6335211992263794 -0.09542909264564514 
+v -2.835973305082007e-07 -0.6335211992263794 -0.10033992677927017 
+v -2.835973305082007e-07 -0.6100256443023682 -0.19821029901504517 
+v -0.031007060781121254 -0.6335211992263794 -0.09542909264564514 
+v 0.08998460322618484 -0.5715087652206421 -0.2769460380077362 
+v 0.2216048389673233 -0.5189197659492493 -0.3050130307674408 
+v 0.36692991852760315 -0.45355260372161865 -0.26659125089645386 
+v 0.4935210943222046 -0.3770187199115753 -0.1603546440601349 
+v 0.41981491446495056 -0.3770187199115753 -0.3050130307674408 
+v 0.5435379147529602 -0.29119551181793213 -0.17660567164421082 
+v 0.2665906548500061 -0.45355260372161865 -0.3669305443763733 
+v 0.11650402098894119 -0.5189197659492493 -0.35856398940086365 
+v -2.835973305082007e-07 -0.5715087652206421 -0.2911982536315918 
+v -0.06125051528215408 -0.6100256443023682 -0.18850909173488617 
+v -0.05897863209247589 -0.6335211992263794 -0.08117683231830597 
+v -0.11650454998016357 -0.6100256443023682 -0.1603546440601349 
+v -0.08117698132991791 -0.6335211992263794 -0.058978497982025146 
+v -0.08998533338308334 -0.5715087652206421 -0.2769460380077362 
+v -2.835973305082007e-07 -0.5189197659492493 -0.3770180344581604 
+v 0.14015471935272217 -0.45355260372161865 -0.43135228753089905 
+v 0.30501243472099304 -0.3770187199115753 -0.4198155105113983 
+v 0.46236082911491394 -0.29119551181793213 -0.33592575788497925 
+v 0.5801708698272705 -0.19820891320705414 -0.18850909173488617 
+v 0.4935210943222046 -0.19820891320705414 -0.3585641384124756 
+v 0.6025131344795227 -0.10034271329641342 -0.19576877355575562 
+v 0.3359253704547882 -0.29119551181793213 -0.4623614251613617 
+v 0.16035403311252594 -0.3770187199115753 -0.49352172017097473 
+v -2.835973305082007e-07 -0.45355260372161865 -0.45355117321014404 
+v -0.11650454998016357 -0.5189197659492493 -0.3585638403892517 
+v -0.171161949634552 -0.5715087652206421 -0.23558394610881805 
+v -0.16035480797290802 -0.6100256443023682 -0.11650440096855164 
+v -0.09542926400899887 -0.6335211992263794 -0.031006965786218643 
+v -0.18850921094417572 -0.6100256443023682 -0.061250362545251846 
+v -0.1003400981426239 -0.6335211992263794 -1.701581737734159e-07 
+v -0.23558394610881805 -0.5715087652206421 -0.17116180062294006 
+v -0.2216055989265442 -0.5189197659492493 -0.3050130307674408 
+v -0.14015547931194305 -0.45355260372161865 -0.43135228753089905 
+v -2.835973305082007e-07 -0.3770187199115753 -0.5189199447631836 
+v 0.17660517990589142 -0.29119551181793213 -0.5435375571250916 
+v 0.3585640490055084 -0.19820891320705414 -0.49352172017097473 
+v 0.5125311017036438 -0.10034271329641342 -0.37237656116485596 
+v 0.61002516746521 0.0 -0.19821037352085114 
+v 0.5189193487167358 0.0 -0.37701818346977234 
+v 0.6025131344795227 0.10034271329641342 -0.19576877355575562 
+v 0.372376024723053 -0.10034271329641342 -0.5125316977500916 
+v 0.1885087490081787 -0.19820891320705414 -0.580170750617981 
+v -2.835973305082007e-07 -0.29119551181793213 -0.5715097188949585 
+v -0.16035480797290802 -0.3770187199115753 -0.49352172017097473 
+v -0.2665913999080658 -0.45355260372161865 -0.3669305443763733 
+v -0.30501317977905273 -0.5189197659492493 -0.22160544991493225 
+v -0.27694618701934814 -0.5715087652206421 -0.08998517692089081 
+v -0.19821025431156158 -0.6100256443023682 -1.701581737734159e-07 
+v -0.09542926400899887 -0.6335211992263794 0.03100661188364029 
+v -0.18850921094417572 -0.6100256443023682 0.061249904334545135 
+v -0.08117698132991791 -0.6335211992263794 0.05897825211286545 
+v -0.2911984324455261 -0.5715087652206421 -1.701581737734159e-07 
+v -0.3585638403892517 -0.5189197659492493 -0.11650440096855164 
+v -0.36693060398101807 -0.45355260372161865 -0.26659125089645386 
+v -0.30501317977905273 -0.3770187199115753 -0.4198155105113983 
+v -0.17660586535930634 -0.29119551181793213 -0.5435375571250916 
+v -2.835973305082007e-07 -0.19820891320705414 -0.6100257635116577 
+v 0.19576819241046906 -0.10034271329641342 -0.6025137305259705 
+v 0.37701788544654846 0.0 -0.5189199447631836 
+v 0.5125311017036438 0.10034271329641342 -0.37237656116485596 
+v 0.5801708698272705 0.19821380078792572 -0.18850909173488617 
+v 0.4935210943222046 0.19821380078792572 -0.3585641384124756 
+v 0.5435379147529602 0.29119232296943665 -0.17660567164421082 
+v 0.372376024723053 0.10034271329641342 -0.5125316977500916 
+v 0.1982097625732422 0.0 -0.6100257635116577 
+v -2.835973305082007e-07 -0.10034271329641342 -0.6335214376449585 
+v -0.18850921094417572 -0.19820891320705414 -0.5801705718040466 
+v -0.3359259068965912 -0.29119551181793213 -0.4623614251613617 
+v -0.41981565952301025 -0.3770187199115753 -0.3050130307674408 
+v -0.4313522279262543 -0.45355260372161865 -0.14015533030033112 
+v -0.3770179748535156 -0.5189197659492493 -1.701581737734159e-07 
+v -0.27694618701934814 -0.5715087652206421 0.08998475968837738 
+v -0.16035480797290802 -0.6100256443023682 0.11650397628545761 
+v -0.05897863209247589 -0.6335211992263794 0.08117648959159851 
+v -0.11650454998016357 -0.6100256443023682 0.16035419702529907 
+v -0.031007060781121254 -0.6335211992263794 0.09542863816022873 
+v -0.23558394610881805 -0.5715087652206421 0.1711615025997162 
+v -0.3585638403892517 -0.5189197659492493 0.11650397628545761 
+v -0.4535510241985321 -0.45355260372161865 -1.701581737734159e-07 
+v -0.49352186918258667 -0.3770187199115753 -0.1603546440601349 
+v -0.462361603975296 -0.29119551181793213 -0.33592575788497925 
+v -0.3585638403892517 -0.19820891320705414 -0.49352172017097473 
+v -0.19576896727085114 -0.10034271329641342 -0.6025137305259705 
+v -2.835973305082007e-07 0.0 -0.6414179801940918 
+v 0.19576819241046906 0.10034271329641342 -0.6025137305259705 
+v 0.3585640490055084 0.19821380078792572 -0.49352172017097473 
+v 0.46236082911491394 0.29119232296943665 -0.33592575788497925 
+v 0.4935210943222046 0.3770190477371216 -0.1603546440601349 
+v 0.41981491446495056 0.3770190477371216 -0.3050130307674408 
+v 0.43135198950767517 0.4535476565361023 -0.14015533030033112 
+v 0.3359253704547882 0.29119232296943665 -0.4623614251613617 
+v 0.1885087490081787 0.19821380078792572 -0.580170750617981 
+v -2.835973305082007e-07 0.10034271329641342 -0.6335214376449585 
+v -0.19821032881736755 0.0 -0.6100257635116577 
+v -0.37237656116485596 -0.10034271329641342 -0.5125316977500916 
+v -0.49352186918258667 -0.19820891320705414 -0.35856369137763977 
+v -0.5435372591018677 -0.29119551181793213 -0.1766057163476944 
+v -0.518919825553894 -0.3770187199115753 -1.701581737734159e-07 
+v -0.4313522279262543 -0.45355260372161865 0.1401548683643341 
+v -0.30501317977905273 -0.5189197659492493 0.22160498797893524 
+v -0.171161949634552 -0.5715087652206421 0.23558348417282104 
+v -0.06125051528215408 -0.6100256443023682 0.18850882351398468 
+v -2.8658763540079235e-07 -0.6335211992263794 0.10033954679965973 
+v -2.895037880534801e-07 -0.6100256443023682 0.19820991158485413 
+v 0.03100648894906044 -0.6335211992263794 0.09542863816022873 
+v -0.08998533338308334 -0.5715087652206421 0.276945561170578 
+v -0.2216055989265442 -0.5189197659492493 0.305012583732605 
+v -0.3669305443763733 -0.45355260372161865 0.26659080386161804 
+v -0.49352186918258667 -0.3770187199115753 0.16035419702529907 
+v -0.5715092420578003 -0.29119551181793213 -1.701581737734159e-07 
+v -0.5801705718040466 -0.19820891320705414 -0.18850906193256378 
+v -0.5125318765640259 -0.10034271329641342 -0.37237638235092163 
+v -0.3770180344581604 0.0 -0.5189199447631836 
+v -0.19576896727085114 0.10034271329641342 -0.6025137305259705 
+v -2.835973305082007e-07 0.19821380078792572 -0.6100257635116577 
+v 0.17660517990589142 0.29119232296943665 -0.5435375571250916 
+v 0.30501243472099304 0.3770190477371216 -0.4198155105113983 
+v 0.36692991852760315 0.4535476565361023 -0.26659125089645386 
+v 0.35856422781944275 0.5189245343208313 -0.11650440096855164 
+v 0.30501243472099304 0.5189245343208313 -0.22160544991493225 
+v 0.27694541215896606 0.5715084671974182 -0.08998517692089081 
+v 0.2665906548500061 0.4535476565361023 -0.3669305443763733 
+v 0.16035403311252594 0.3770190477371216 -0.49352172017097473 
+v -2.835973305082007e-07 0.29119232296943665 -0.5715097188949585 
+v -0.18850921094417572 0.19821380078792572 -0.5801705718040466 
+v -0.37237656116485596 0.10034271329641342 -0.5125316977500916 
+v -0.518919825553894 0.0 -0.3770179748535156 
+v -0.60251384973526 -0.10034271329641342 -0.195768803358078 
+v -0.610025942325592 -0.19820891320705414 -1.701581737734159e-07 
+v -0.5435372591018677 -0.29119551181793213 0.17660541832447052 
+v -0.4198157489299774 -0.3770187199115753 0.305012583732605 
+v -0.2665913999080658 -0.45355260372161865 0.3669300675392151 
+v -0.11650454998016357 -0.5189197659492493 0.35856354236602783 
+v -2.9227561526568024e-07 -0.5715087652206421 0.291197806596756 
+v 0.0612497515976429 -0.6100256443023682 0.1885087937116623 
+v 0.0589781180024147 -0.6335211992263794 0.08117648959159851 
+v 0.11650393903255463 -0.6100256443023682 0.16035419702529907 
+v 0.08117633312940598 -0.6335211992263794 0.058978233486413956 
+v 0.08998462557792664 -0.5715087652206421 0.276945561170578 
+v -2.9483322805390344e-07 -0.5189197659492493 0.3770175874233246 
+v -0.14015547931194305 -0.45355260372161865 0.4313516914844513 
+v -0.30501317977905273 -0.3770187199115753 0.4198150634765625 
+v -0.462361603975296 -0.29119551181793213 0.33592528104782104 
+v -0.5801705718040466 -0.19820891320705414 0.18850882351398468 
+v -0.633521556854248 -0.10034271329641342 -1.701581737734159e-07 
+v -0.610025942325592 0.0 -0.19821017980575562 
+v -0.5125318765640259 0.10034271329641342 -0.37237638235092163 
+v -0.3585638403892517 0.19821380078792572 -0.49352172017097473 
+v -0.17660586535930634 0.29119232296943665 -0.5435375571250916 
+v -2.835973305082007e-07 0.3770190477371216 -0.5189199447631836 
+v 0.14015471935272217 0.4535476565361023 -0.43135228753089905 
+v 0.2216048389673233 0.5189245343208313 -0.3050130307674408 
+v 0.23558379709720612 0.5715084671974182 -0.171161949634552 
+v 0.18850871920585632 0.6100308299064636 -0.061250362545251846 
+v 0.16035403311252594 0.6100308299064636 -0.11650440096855164 
+v 0.09542850404977798 0.6335262656211853 -0.031006984412670135 
+v 0.08117633312940598 0.6335262656211853 -0.058978497982025146 
+v 0.11650402098894119 0.6100308299064636 -0.1603546440601349 
+v 0.0589781180024147 0.6335262656211853 -0.08117685467004776 
+v 0.17116133868694305 0.5715084671974182 -0.23558394610881805 
+v 0.11650402098894119 0.5189245343208313 -0.35856398940086365 
+v -2.835973305082007e-07 0.4535476565361023 -0.45355117321014404 
+v -0.16035480797290802 0.3770190477371216 -0.49352172017097473 
+v -0.3359259068965912 0.29119232296943665 -0.4623614251613617 
+v -0.49352186918258667 0.19821380078792572 -0.35856369137763977 
+v -0.60251384973526 0.10034271329641342 -0.195768803358078 
+v -0.6414181590080261 0.0 -1.701581737734159e-07 
+v -0.60251384973526 -0.10034271329641342 0.19576838612556458 
+v -0.49352186918258667 -0.19820891320705414 0.35856354236602783 
+v -0.3359255790710449 -0.29119551181793213 0.4623609781265259 
+v -0.16035480797290802 -0.3770187199115753 0.4935212731361389 
+v -2.9711378601859906e-07 -0.45355260372161865 0.45355069637298584 
+v 0.11650386452674866 -0.5189197659492493 0.35856354236602783 
+v 0.17116133868694305 -0.5715087652206421 0.23558348417282104 
+v 0.16035403311252594 -0.6100256443023682 0.11650397628545761 
+v 0.09542850404977798 -0.6335211992263794 0.03100661188364029 
+v 0.18850867450237274 -0.6100256443023682 0.061249904334545135 
+v 0.10033946484327316 -0.6335211992263794 -1.701581737734159e-07 
+v 0.2355833351612091 -0.5715087652206421 0.1711615025997162 
+v 0.2216048389673233 -0.5189197659492493 0.305012583732605 
+v 0.14015471935272217 -0.45355260372161865 0.4313516914844513 
+v -2.990621226217627e-07 -0.3770187199115753 0.5189195275306702 
+v -0.17660583555698395 -0.29119551181793213 0.5435368418693542 
+v -0.35856369137763977 -0.19820891320705414 0.4935212731361389 
+v -0.5125318765640259 -0.10034271329641342 0.37237608432769775 
+v -0.610025942325592 0.0 0.19820986688137054 
+v -0.633521556854248 0.10034271329641342 -1.701581737734159e-07 
+v -0.5801705718040466 0.19821380078792572 -0.18850906193256378 
+v -0.462361603975296 0.29119232296943665 -0.33592575788497925 
+v -0.30501317977905273 0.3770190477371216 -0.4198155105113983 
+v -0.14015547931194305 0.4535476565361023 -0.43135228753089905 
+v -2.835973305082007e-07 0.5189245343208313 -0.3770180344581604 
+v 0.08998460322618484 0.5715084671974182 -0.2769460380077362 
+v 0.06124977022409439 0.6100308299064636 -0.18850909173488617 
+v 0.03100648894906044 0.6335262656211853 -0.09542909264564514 
+v -2.835973305082007e-07 0.6100308299064636 -0.19821029901504517 
+v -2.835973305082007e-07 0.6335262656211853 -0.10033992677927017 
+v -2.835973305082007e-07 0.5715084671974182 -0.2911982536315918 
+v -0.11650454998016357 0.5189245343208313 -0.3585638403892517 
+v -0.2665913999080658 0.4535476565361023 -0.3669305443763733 
+v -0.41981565952301025 0.3770190477371216 -0.3050130307674408 
+v -0.5435372591018677 0.29119232296943665 -0.1766057163476944 
+v -0.610025942325592 0.19821380078792572 -1.701581737734159e-07 
+v -0.60251384973526 0.10034271329641342 0.19576838612556458 
+v -0.518919825553894 0.0 0.3770177364349365 
+v -0.37237638235092163 -0.10034271329641342 0.5125312805175781 
+v -0.1885092556476593 -0.19820891320705414 0.5801700949668884 
+v -3.0062929567975516e-07 -0.29119551181793213 0.5715089440345764 
+v 0.16035403311252594 -0.3770187199115753 0.4935212731361389 
+v 0.2665906548500061 -0.45355260372161865 0.3669300675392151 
+v 0.30501243472099304 -0.5189197659492493 0.22160498797893524 
+v 0.27694541215896606 -0.5715087652206421 0.08998473733663559 
+v 0.1982097625732422 -0.6100256443023682 -1.701581737734159e-07 
+v 0.09542850404977798 -0.6335211992263794 -0.031006984412670135 
+v 0.18850871920585632 -0.6100256443023682 -0.061250362545251846 
+v 0.29119765758514404 -0.5715087652206421 -1.701581737734159e-07 
+v 0.27694541215896606 -0.5715087652206421 -0.08998517692089081 
+v 0.3585633635520935 -0.5189197659492493 0.11650393903255463 
+v 0.36692991852760315 -0.45355260372161865 0.26659080386161804 
+v 0.30501243472099304 -0.3770187199115753 0.4198150634765625 
+v 0.17660517990589142 -0.29119551181793213 0.5435368418693542 
+v -3.0177685061971715e-07 -0.19820891320705414 0.6100252866744995 
+v -0.19576896727085114 -0.10034271329641342 0.6025132536888123 
+v -0.3770179748535156 0.0 0.5189195275306702 
+v -0.5125318765640259 0.10034271329641342 0.37237608432769775 
+v -0.5801705718040466 0.19821380078792572 0.18850882351398468 
+v -0.5715092420578003 0.29119232296943665 -1.701581737734159e-07 
+v -0.49352186918258667 0.3770190477371216 -0.1603546440601349 
+v -0.36693060398101807 0.4535476565361023 -0.26659125089645386 
+v -0.2216055989265442 0.5189245343208313 -0.3050130307674408 
+v -0.08998533338308334 0.5715084671974182 -0.2769460380077362 
+v -0.06125051528215408 0.6100308299064636 -0.18850909173488617 
+v -0.031007060781121254 0.6335262656211853 -0.09542909264564514 
+v -0.11650454998016357 0.6100308299064636 -0.1603546440601349 
+v -0.05897863209247589 0.6335262656211853 -0.08117683231830597 
+v -0.171161949634552 0.5715084671974182 -0.23558394610881805 
+v -0.30501317977905273 0.5189245343208313 -0.22160544991493225 
+v -0.4313522279262543 0.4535476565361023 -0.14015533030033112 
+v -0.518919825553894 0.3770190477371216 -1.701581737734159e-07 
+v -0.5435372591018677 0.29119232296943665 0.17660541832447052 
+v -0.49352186918258667 0.19821380078792572 0.35856354236602783 
+v -0.37237638235092163 0.10034271329641342 0.5125312805175781 
+v -0.19821025431156158 0.0 0.6100252866744995 
+v -3.024771331183729e-07 -0.10034271329641342 0.6335209608078003 
+v 0.18850864470005035 -0.19820891320705414 0.5801699757575989 
+v 0.3359251320362091 -0.29119551181793213 0.4623609781265259 
+v 0.41981491446495056 -0.3770187199115753 0.305012583732605 
+v 0.43135160207748413 -0.45355260372161865 0.1401548683643341 
+v 0.37701743841171265 -0.5189197659492493 -1.701581737734159e-07 
+v 0.35856422781944275 -0.5189197659492493 -0.11650440096855164 
+v 0.4535505473613739 -0.45355260372161865 -1.701581737734159e-07 
+v 0.43135198950767517 -0.45355260372161865 -0.14015533030033112 
+v 0.4935210943222046 -0.3770187199115753 0.16035419702529907 
+v 0.46236082911491394 -0.29119551181793213 0.33592528104782104 
+v 0.35856321454048157 -0.19820891320705414 0.4935212731361389 
+v 0.19576819241046906 -0.10034271329641342 0.6025132536888123 
+v -3.027130048849358e-07 0.0 0.6414175033569336 
+v -0.19576896727085114 0.10034271329641342 0.6025132536888123 
+v -0.35856369137763977 0.19821380078792572 0.4935212731361389 
+v -0.462361603975296 0.29119232296943665 0.33592528104782104 
+v -0.49352186918258667 0.3770190477371216 0.16035419702529907 
+v -0.4535510241985321 0.4535476565361023 -1.701581737734159e-07 
+v -0.3585638403892517 0.5189245343208313 -0.11650440096855164 
+v -0.23558394610881805 0.5715084671974182 -0.17116180062294006 
+v -0.16035480797290802 0.6100308299064636 -0.11650440096855164 
+v -0.08117698132991791 0.6335262656211853 -0.058978497982025146 
+v -0.18850921094417572 0.6100308299064636 -0.061250362545251846 
+v -0.09542926400899887 0.6335262656211853 -0.031006965786218643 
+v -0.27694618701934814 0.5715084671974182 -0.08998517692089081 
+v -0.3770179748535156 0.5189245343208313 -1.701581737734159e-07 
+v -0.4313522279262543 0.4535476565361023 0.1401548683643341 
+v -0.4198157489299774 0.3770190477371216 0.305012583732605 
+v -0.3359255790710449 0.29119232296943665 0.4623609781265259 
+v -0.1885092556476593 0.19821380078792572 0.5801700949668884 
+v -3.024771331183729e-07 0.10034271329641342 0.6335209608078003 
+v 0.1982097625732422 0.0 0.6100252866744995 
+v 0.3723759353160858 -0.10034271329641342 0.5125312805175781 
+v 0.4935210943222046 -0.19820891320705414 0.3585633635520935 
+v 0.5435365438461304 -0.29119551181793213 0.1766052544116974 
+v 0.5189192295074463 -0.3770187199115753 -1.701581737734159e-07 
+v 0.4935210943222046 -0.3770187199115753 -0.1603546440601349 
+v 0.5715087652206421 -0.29119551181793213 -1.701581737734159e-07 
+v 0.5435379147529602 -0.29119551181793213 -0.17660567164421082 
+v 0.5801697969436646 -0.19820891320705414 0.18850871920585632 
+v 0.5125311017036438 -0.10034271329641342 0.37237608432769775 
+v 0.37701743841171265 0.0 0.5189193487167358 
+v 0.19576819241046906 0.10034271329641342 0.6025132536888123 
+v -3.0177685061971715e-07 0.19821380078792572 0.6100252866744995 
+v -0.17660583555698395 0.29119232296943665 0.5435368418693542 
+v -0.30501317977905273 0.3770190477371216 0.4198150634765625 
+v -0.3669305443763733 0.4535476565361023 0.26659080386161804 
+v -0.3585638403892517 0.5189245343208313 0.11650397628545761 
+v -0.2911984324455261 0.5715084671974182 -1.701581737734159e-07 
+v -0.19821025431156158 0.6100308299064636 -1.701581737734159e-07 
+v -0.1003400981426239 0.6335262656211853 -1.701581737734159e-07 
+v -0.18850921094417572 0.6100308299064636 0.061249904334545135 
+v -0.09542926400899887 0.6335262656211853 0.03100661188364029 
+v -0.27694618701934814 0.5715084671974182 0.08998475968837738 
+v -0.30501317977905273 0.5189245343208313 0.22160498797893524 
+v -0.2665913999080658 0.4535476565361023 0.3669300675392151 
+v -0.16035480797290802 0.3770190477371216 0.4935212731361389 
+v -3.0062929567975516e-07 0.29119232296943665 0.5715089440345764 
+v 0.18850864470005035 0.19821380078792572 0.5801699757575989 
+v 0.3723759353160858 0.10034271329641342 0.5125312805175781 
+v 0.5189192295074463 0.0 0.37701743841171265 
+v 0.6025131344795227 -0.10034271329641342 0.1957683563232422 
+v 0.61002516746521 -0.19820891320705414 -1.701581737734159e-07 
+v 0.5801708698272705 -0.19820891320705414 -0.18850909173488617 
+v 0.633520781993866 -0.10034271329641342 -1.701581737734159e-07 
+v 0.6025131344795227 -0.10034271329641342 -0.19576877355575562 
+v 0.61002516746521 0.0 0.19820991158485413 
+v 0.5125311017036438 0.10034271329641342 0.37237608432769775 
+v 0.35856321454048157 0.19821380078792572 0.4935212731361389 
+v 0.17660517990589142 0.29119232296943665 0.5435368418693542 
+v -2.990621226217627e-07 0.3770190477371216 0.5189195275306702 
+v -0.14015547931194305 0.4535476565361023 0.4313516914844513 
+v -0.2216055989265442 0.5189245343208313 0.305012583732605 
+v -0.23558394610881805 0.5715084671974182 0.1711615025997162 
+v -0.16035480797290802 0.6100308299064636 0.11650397628545761 
+v -0.08117698132991791 0.6335262656211853 0.05897825211286545 
+v -0.11650454998016357 0.6100308299064636 0.16035419702529907 
+v -0.05897863209247589 0.6335262656211853 0.08117648959159851 
+v -0.171161949634552 0.5715084671974182 0.23558348417282104 
+v -0.11650454998016357 0.5189245343208313 0.35856354236602783 
+v -2.9711378601859906e-07 0.4535476565361023 0.45355069637298584 
+v 0.16035403311252594 0.3770190477371216 0.4935212731361389 
+v 0.3359251320362091 0.29119232296943665 0.4623609781265259 
+v 0.4935210943222046 0.19821380078792572 0.3585633635520935 
+v 0.6025131344795227 0.10034271329641342 0.1957683563232422 
+v 0.641417384147644 0.0 -1.701581737734159e-07 
+v 0.61002516746521 0.0 -0.19821037352085114 
+v 0.633520781993866 0.10034271329641342 -1.701581737734159e-07 
+v 0.6025131344795227 0.10034271329641342 -0.19576877355575562 
+v 0.5801697969436646 0.19821380078792572 0.18850871920585632 
+v 0.46236082911491394 0.29119232296943665 0.33592528104782104 
+v 0.30501243472099304 0.3770190477371216 0.4198150634765625 
+v 0.14015471935272217 0.4535476565361023 0.4313516914844513 
+v -2.9483322805390344e-07 0.5189245343208313 0.3770175874233246 
+v -0.08998533338308334 0.5715084671974182 0.276945561170578 
+v -0.06125051528215408 0.6100308299064636 0.18850882351398468 
+v -0.031007060781121254 0.6335262656211853 0.09542863816022873 
+v -2.895037880534801e-07 0.6100308299064636 0.19820991158485413 
+v -2.8658763540079235e-07 0.6335262656211853 0.10033954679965973 
+v -2.9227561526568024e-07 0.5715084671974182 0.291197806596756 
+v 0.11650386452674866 0.5189245343208313 0.35856354236602783 
+v 0.2665906548500061 0.4535476565361023 0.3669300675392151 
+v 0.41981491446495056 0.3770190477371216 0.305012583732605 
+v 0.5435365438461304 0.29119232296943665 0.1766052544116974 
+v 0.61002516746521 0.19821380078792572 -1.701581737734159e-07 
+v 0.5801708698272705 0.19821380078792572 -0.18850909173488617 
+v 0.5715087652206421 0.29119232296943665 -1.701581737734159e-07 
+v 0.5435379147529602 0.29119232296943665 -0.17660567164421082 
+v 0.4935210943222046 0.3770190477371216 0.16035419702529907 
+v 0.36692991852760315 0.4535476565361023 0.26659080386161804 
+v 0.2216048389673233 0.5189245343208313 0.305012583732605 
+v 0.08998462557792664 0.5715084671974182 0.276945561170578 
+v 0.0612497515976429 0.6100308299064636 0.1885087937116623 
+v 0.03100648894906044 0.6335262656211853 0.09542863816022873 
+v 0.11650393903255463 0.6100308299064636 0.16035419702529907 
+v 0.0589781180024147 0.6335262656211853 0.08117648959159851 
+v 0.17116133868694305 0.5715084671974182 0.23558348417282104 
+v 0.30501243472099304 0.5189245343208313 0.22160498797893524 
+v 0.43135160207748413 0.4535476565361023 0.1401548683643341 
+v 0.5189192295074463 0.3770190477371216 -1.701581737734159e-07 
+v 0.4935210943222046 0.3770190477371216 -0.1603546440601349 
+v 0.4535505473613739 0.4535476565361023 -1.701581737734159e-07 
+v 0.43135198950767517 0.4535476565361023 -0.14015533030033112 
+v 0.3585633635520935 0.5189245343208313 0.11650393903255463 
+v 0.2355833351612091 0.5715084671974182 0.1711615025997162 
+v 0.16035403311252594 0.6100308299064636 0.11650397628545761 
+v 0.08117633312940598 0.6335262656211853 0.058978233486413956 
+v 0.18850867450237274 0.6100308299064636 0.061249904334545135 
+v 0.09542850404977798 0.6335262656211853 0.03100661188364029 
+v 0.27694541215896606 0.5715084671974182 0.08998473733663559 
+v 0.37701743841171265 0.5189245343208313 -1.701581737734159e-07 
+v 0.35856422781944275 0.5189245343208313 -0.11650440096855164 
+v 0.29119765758514404 0.5715084671974182 -1.701581737734159e-07 
+v 0.1982097625732422 0.6100308299064636 -1.701581737734159e-07 
+v 0.10033946484327316 0.6335262656211853 -1.701581737734159e-07 
+v 0.18850871920585632 0.6100308299064636 -0.061250362545251846 
+v 0.09542850404977798 0.6335262656211853 -0.031006984412670135 
+v 0.27694541215896606 0.5715084671974182 -0.08998517692089081 
+v 0.08117633312940598 -0.6335211992263794 -0.058978497982025146 
+v 0.09542850404977798 -0.6335211992263794 -0.031006984412670135 
+v -2.835973305082007e-07 -0.6414167881011963 -1.701581737734159e-07 
+v 0.0589781180024147 -0.6335211992263794 -0.08117685467004776 
+v 0.10033946484327316 -0.6335211992263794 -1.701581737734159e-07 
+v 0.03100648894906044 -0.6335211992263794 -0.09542909264564514 
+v 0.09542850404977798 -0.6335211992263794 0.03100661188364029 
+v -2.835973305082007e-07 -0.6335211992263794 -0.10033992677927017 
+v 0.08117633312940598 -0.6335211992263794 0.058978233486413956 
+v -0.031007060781121254 -0.6335211992263794 -0.09542909264564514 
+v 0.0589781180024147 -0.6335211992263794 0.08117648959159851 
+v -0.05897863209247589 -0.6335211992263794 -0.08117683231830597 
+v 0.03100648894906044 -0.6335211992263794 0.09542863816022873 
+v -0.08117698132991791 -0.6335211992263794 -0.058978497982025146 
+v -2.8658763540079235e-07 -0.6335211992263794 0.10033954679965973 
+v -0.09542926400899887 -0.6335211992263794 -0.031006965786218643 
+v -0.031007060781121254 -0.6335211992263794 0.09542863816022873 
+v -0.1003400981426239 -0.6335211992263794 -1.701581737734159e-07 
+v -0.05897863209247589 -0.6335211992263794 0.08117648959159851 
+v -0.09542926400899887 -0.6335211992263794 0.03100661188364029 
+v -0.08117698132991791 -0.6335211992263794 0.05897825211286545 
+v 0.09542850404977798 0.6335262656211853 -0.031006984412670135 
+v 0.08117633312940598 0.6335262656211853 -0.058978497982025146 
+v -2.835973305082007e-07 0.6414123177528381 -1.701581737734159e-07 
+v 0.10033946484327316 0.6335262656211853 -1.701581737734159e-07 
+v 0.0589781180024147 0.6335262656211853 -0.08117685467004776 
+v 0.09542850404977798 0.6335262656211853 0.03100661188364029 
+v 0.03100648894906044 0.6335262656211853 -0.09542909264564514 
+v 0.08117633312940598 0.6335262656211853 0.058978233486413956 
+v -2.835973305082007e-07 0.6335262656211853 -0.10033992677927017 
+v 0.0589781180024147 0.6335262656211853 0.08117648959159851 
+v -0.031007060781121254 0.6335262656211853 -0.09542909264564514 
+v 0.03100648894906044 0.6335262656211853 0.09542863816022873 
+v -0.05897863209247589 0.6335262656211853 -0.08117683231830597 
+v -2.8658763540079235e-07 0.6335262656211853 0.10033954679965973 
+v -0.08117698132991791 0.6335262656211853 -0.058978497982025146 
+v -0.031007060781121254 0.6335262656211853 0.09542863816022873 
+v -0.09542926400899887 0.6335262656211853 -0.031006965786218643 
+v -0.05897863209247589 0.6335262656211853 0.08117648959159851 
+v -0.1003400981426239 0.6335262656211853 -1.701581737734159e-07 
+v -0.08117698132991791 0.6335262656211853 0.05897825211286545 
+v -0.09542926400899887 0.6335262656211853 0.03100661188364029 
+
+#Number of uv: 441
+vt 0.0 0.05029296875 0
+vt 0.04998779296875 0.05029296875 0
+vt 0.0 0.10009765625 0
+vt 0.04998779296875 0.10009765625 0
+vt 0.0999755859375 0.05029296875 0
+vt 0.0 0.150390625 0
+vt 0.0999755859375 0.10009765625 0
+vt 0.04998779296875 0.150390625 0
+vt 0.0 0.2001953125 0
+vt 0.04998779296875 0.2001953125 0
+vt 0.0 0.25 0
+vt 0.0999755859375 0.150390625 0
+vt 0.14990234375 0.10009765625 0
+vt 0.14990234375 0.05029296875 0
+vt 0.199951171875 0.05029296875 0
+vt 0.199951171875 0.10009765625 0
+vt 0.25 0.05029296875 0
+vt 0.14990234375 0.150390625 0
+vt 0.0999755859375 0.2001953125 0
+vt 0.04998779296875 0.25 0
+vt 0.0 0.30029296875 0
+vt 0.04998779296875 0.30029296875 0
+vt 0.0 0.35009765625 0
+vt 0.0999755859375 0.25 0
+vt 0.14990234375 0.2001953125 0
+vt 0.199951171875 0.150390625 0
+vt 0.25 0.10009765625 0
+vt 0.2998046875 0.05029296875 0
+vt 0.2998046875 0.10009765625 0
+vt 0.349853515625 0.05029296875 0
+vt 0.25 0.150390625 0
+vt 0.199951171875 0.2001953125 0
+vt 0.14990234375 0.25 0
+vt 0.0999755859375 0.30029296875 0
+vt 0.04998779296875 0.35009765625 0
+vt 0.0 0.400390625 0
+vt 0.04998779296875 0.400390625 0
+vt 0.0 0.4501953125 0
+vt 0.0999755859375 0.35009765625 0
+vt 0.14990234375 0.30029296875 0
+vt 0.199951171875 0.25 0
+vt 0.25 0.2001953125 0
+vt 0.2998046875 0.150390625 0
+vt 0.349853515625 0.10009765625 0
+vt 0.39990234375 0.05029296875 0
+vt 0.39990234375 0.10009765625 0
+vt 0.449951171875 0.05029296875 0
+vt 0.349853515625 0.150390625 0
+vt 0.2998046875 0.2001953125 0
+vt 0.25 0.25 0
+vt 0.199951171875 0.30029296875 0
+vt 0.14990234375 0.35009765625 0
+vt 0.0999755859375 0.400390625 0
+vt 0.04998779296875 0.4501953125 0
+vt 0.0 0.500244140625 0
+vt 0.04998779296875 0.500244140625 0
+vt 0.0 0.550048828125 0
+vt 0.0999755859375 0.4501953125 0
+vt 0.14990234375 0.400390625 0
+vt 0.199951171875 0.35009765625 0
+vt 0.25 0.30029296875 0
+vt 0.2998046875 0.25 0
+vt 0.349853515625 0.2001953125 0
+vt 0.39990234375 0.150390625 0
+vt 0.449951171875 0.10009765625 0
+vt 0.5 0.05029296875 0
+vt 0.5 0.10009765625 0
+vt 0.5498046875 0.05029296875 0
+vt 0.449951171875 0.150390625 0
+vt 0.39990234375 0.2001953125 0
+vt 0.349853515625 0.25 0
+vt 0.2998046875 0.30029296875 0
+vt 0.25 0.35009765625 0
+vt 0.199951171875 0.400390625 0
+vt 0.14990234375 0.4501953125 0
+vt 0.0999755859375 0.500244140625 0
+vt 0.04998779296875 0.550048828125 0
+vt 0.0 0.60009765625 0
+vt 0.04998779296875 0.60009765625 0
+vt 0.0 0.650146484375 0
+vt 0.0999755859375 0.550048828125 0
+vt 0.14990234375 0.500244140625 0
+vt 0.199951171875 0.4501953125 0
+vt 0.25 0.400390625 0
+vt 0.2998046875 0.35009765625 0
+vt 0.349853515625 0.30029296875 0
+vt 0.39990234375 0.25 0
+vt 0.449951171875 0.2001953125 0
+vt 0.5 0.150390625 0
+vt 0.5498046875 0.10009765625 0
+vt 0.599609375 0.05029296875 0
+vt 0.599609375 0.10009765625 0
+vt 0.64990234375 0.05029296875 0
+vt 0.5498046875 0.150390625 0
+vt 0.5 0.2001953125 0
+vt 0.449951171875 0.25 0
+vt 0.39990234375 0.30029296875 0
+vt 0.349853515625 0.35009765625 0
+vt 0.2998046875 0.400390625 0
+vt 0.25 0.4501953125 0
+vt 0.199951171875 0.500244140625 0
+vt 0.14990234375 0.550048828125 0
+vt 0.0999755859375 0.60009765625 0
+vt 0.04998779296875 0.650146484375 0
+vt 0.0 0.7001953125 0
+vt 0.04998779296875 0.7001953125 0
+vt 0.0 0.7501220703125 0
+vt 0.0999755859375 0.650146484375 0
+vt 0.14990234375 0.60009765625 0
+vt 0.199951171875 0.550048828125 0
+vt 0.25 0.500244140625 0
+vt 0.2998046875 0.4501953125 0
+vt 0.349853515625 0.400390625 0
+vt 0.39990234375 0.35009765625 0
+vt 0.449951171875 0.30029296875 0
+vt 0.5 0.25 0
+vt 0.5498046875 0.2001953125 0
+vt 0.599609375 0.150390625 0
+vt 0.64990234375 0.10009765625 0
+vt 0.69970703125 0.05029296875 0
+vt 0.69970703125 0.10009765625 0
+vt 0.75 0.05029296875 0
+vt 0.64990234375 0.150390625 0
+vt 0.599609375 0.2001953125 0
+vt 0.5498046875 0.25 0
+vt 0.5 0.30029296875 0
+vt 0.449951171875 0.35009765625 0
+vt 0.39990234375 0.400390625 0
+vt 0.349853515625 0.4501953125 0
+vt 0.2998046875 0.500244140625 0
+vt 0.25 0.550048828125 0
+vt 0.199951171875 0.60009765625 0
+vt 0.14990234375 0.650146484375 0
+vt 0.0999755859375 0.7001953125 0
+vt 0.04998779296875 0.7501220703125 0
+vt 0.0 0.800048828125 0
+vt 0.04998779296875 0.800048828125 0
+vt 0.0 0.85009765625 0
+vt 0.0999755859375 0.7501220703125 0
+vt 0.14990234375 0.7001953125 0
+vt 0.199951171875 0.650146484375 0
+vt 0.25 0.60009765625 0
+vt 0.2998046875 0.550048828125 0
+vt 0.349853515625 0.500244140625 0
+vt 0.39990234375 0.4501953125 0
+vt 0.449951171875 0.400390625 0
+vt 0.5 0.35009765625 0
+vt 0.5498046875 0.30029296875 0
+vt 0.599609375 0.25 0
+vt 0.64990234375 0.2001953125 0
+vt 0.69970703125 0.150390625 0
+vt 0.75 0.10009765625 0
+vt 0.7998046875 0.05029296875 0
+vt 0.7998046875 0.10009765625 0
+vt 0.849609375 0.05029296875 0
+vt 0.75 0.150390625 0
+vt 0.69970703125 0.2001953125 0
+vt 0.64990234375 0.25 0
+vt 0.599609375 0.30029296875 0
+vt 0.5498046875 0.35009765625 0
+vt 0.5 0.400390625 0
+vt 0.449951171875 0.4501953125 0
+vt 0.39990234375 0.500244140625 0
+vt 0.349853515625 0.550048828125 0
+vt 0.2998046875 0.60009765625 0
+vt 0.25 0.650146484375 0
+vt 0.199951171875 0.7001953125 0
+vt 0.14990234375 0.7501220703125 0
+vt 0.0999755859375 0.800048828125 0
+vt 0.04998779296875 0.85009765625 0
+vt 0.0 0.9000244140625 0
+vt 0.04998779296875 0.9000244140625 0
+vt 0.0 0.95001220703125 0
+vt 0.04998779296875 0.95001220703125 0
+vt 0.0999755859375 0.9000244140625 0
+vt 0.0999755859375 0.95001220703125 0
+vt 0.0999755859375 0.85009765625 0
+vt 0.14990234375 0.800048828125 0
+vt 0.199951171875 0.7501220703125 0
+vt 0.25 0.7001953125 0
+vt 0.2998046875 0.650146484375 0
+vt 0.349853515625 0.60009765625 0
+vt 0.39990234375 0.550048828125 0
+vt 0.449951171875 0.500244140625 0
+vt 0.5 0.4501953125 0
+vt 0.5498046875 0.400390625 0
+vt 0.599609375 0.35009765625 0
+vt 0.64990234375 0.30029296875 0
+vt 0.69970703125 0.25 0
+vt 0.75 0.2001953125 0
+vt 0.7998046875 0.150390625 0
+vt 0.849609375 0.10009765625 0
+vt 0.89990234375 0.05029296875 0
+vt 0.89990234375 0.10009765625 0
+vt 0.94970703125 0.05029296875 0
+vt 0.849609375 0.150390625 0
+vt 0.7998046875 0.2001953125 0
+vt 0.75 0.25 0
+vt 0.69970703125 0.30029296875 0
+vt 0.64990234375 0.35009765625 0
+vt 0.599609375 0.400390625 0
+vt 0.5498046875 0.4501953125 0
+vt 0.5 0.500244140625 0
+vt 0.449951171875 0.550048828125 0
+vt 0.39990234375 0.60009765625 0
+vt 0.349853515625 0.650146484375 0
+vt 0.2998046875 0.7001953125 0
+vt 0.25 0.7501220703125 0
+vt 0.199951171875 0.800048828125 0
+vt 0.14990234375 0.85009765625 0
+vt 0.14990234375 0.9000244140625 0
+vt 0.14990234375 0.95001220703125 0
+vt 0.199951171875 0.9000244140625 0
+vt 0.199951171875 0.95001220703125 0
+vt 0.199951171875 0.85009765625 0
+vt 0.25 0.800048828125 0
+vt 0.2998046875 0.7501220703125 0
+vt 0.349853515625 0.7001953125 0
+vt 0.39990234375 0.650146484375 0
+vt 0.449951171875 0.60009765625 0
+vt 0.5 0.550048828125 0
+vt 0.5498046875 0.500244140625 0
+vt 0.599609375 0.4501953125 0
+vt 0.64990234375 0.400390625 0
+vt 0.69970703125 0.35009765625 0
+vt 0.75 0.30029296875 0
+vt 0.7998046875 0.25 0
+vt 0.849609375 0.2001953125 0
+vt 0.89990234375 0.150390625 0
+vt 0.94970703125 0.10009765625 0
+vt 1.0 0.05029296875 0
+vt 1.0 0.10009765625 0
+vt 0.94970703125 0.150390625 0
+vt 1.0 0.150390625 0
+vt 0.89990234375 0.2001953125 0
+vt 0.849609375 0.25 0
+vt 0.7998046875 0.30029296875 0
+vt 0.75 0.35009765625 0
+vt 0.69970703125 0.400390625 0
+vt 0.64990234375 0.4501953125 0
+vt 0.599609375 0.500244140625 0
+vt 0.5498046875 0.550048828125 0
+vt 0.5 0.60009765625 0
+vt 0.449951171875 0.650146484375 0
+vt 0.39990234375 0.7001953125 0
+vt 0.349853515625 0.7501220703125 0
+vt 0.2998046875 0.800048828125 0
+vt 0.25 0.85009765625 0
+vt 0.25 0.9000244140625 0
+vt 0.25 0.95001220703125 0
+vt 0.2998046875 0.9000244140625 0
+vt 0.2998046875 0.95001220703125 0
+vt 0.2998046875 0.85009765625 0
+vt 0.349853515625 0.800048828125 0
+vt 0.39990234375 0.7501220703125 0
+vt 0.449951171875 0.7001953125 0
+vt 0.5 0.650146484375 0
+vt 0.5498046875 0.60009765625 0
+vt 0.599609375 0.550048828125 0
+vt 0.64990234375 0.500244140625 0
+vt 0.69970703125 0.4501953125 0
+vt 0.75 0.400390625 0
+vt 0.7998046875 0.35009765625 0
+vt 0.849609375 0.30029296875 0
+vt 0.89990234375 0.25 0
+vt 0.94970703125 0.2001953125 0
+vt 1.0 0.2001953125 0
+vt 0.94970703125 0.25 0
+vt 1.0 0.25 0
+vt 0.89990234375 0.30029296875 0
+vt 0.849609375 0.35009765625 0
+vt 0.7998046875 0.400390625 0
+vt 0.75 0.4501953125 0
+vt 0.69970703125 0.500244140625 0
+vt 0.64990234375 0.550048828125 0
+vt 0.599609375 0.60009765625 0
+vt 0.5498046875 0.650146484375 0
+vt 0.5 0.7001953125 0
+vt 0.449951171875 0.7501220703125 0
+vt 0.39990234375 0.800048828125 0
+vt 0.349853515625 0.85009765625 0
+vt 0.349853515625 0.9000244140625 0
+vt 0.349853515625 0.95001220703125 0
+vt 0.39990234375 0.9000244140625 0
+vt 0.39990234375 0.95001220703125 0
+vt 0.39990234375 0.85009765625 0
+vt 0.449951171875 0.800048828125 0
+vt 0.5 0.7501220703125 0
+vt 0.5498046875 0.7001953125 0
+vt 0.599609375 0.650146484375 0
+vt 0.64990234375 0.60009765625 0
+vt 0.69970703125 0.550048828125 0
+vt 0.75 0.500244140625 0
+vt 0.7998046875 0.4501953125 0
+vt 0.849609375 0.400390625 0
+vt 0.89990234375 0.35009765625 0
+vt 0.94970703125 0.30029296875 0
+vt 1.0 0.30029296875 0
+vt 0.94970703125 0.35009765625 0
+vt 1.0 0.35009765625 0
+vt 0.89990234375 0.400390625 0
+vt 0.849609375 0.4501953125 0
+vt 0.7998046875 0.500244140625 0
+vt 0.75 0.550048828125 0
+vt 0.69970703125 0.60009765625 0
+vt 0.64990234375 0.650146484375 0
+vt 0.599609375 0.7001953125 0
+vt 0.5498046875 0.7501220703125 0
+vt 0.5 0.800048828125 0
+vt 0.449951171875 0.85009765625 0
+vt 0.449951171875 0.9000244140625 0
+vt 0.449951171875 0.95001220703125 0
+vt 0.5 0.9000244140625 0
+vt 0.5 0.95001220703125 0
+vt 0.5 0.85009765625 0
+vt 0.5498046875 0.800048828125 0
+vt 0.599609375 0.7501220703125 0
+vt 0.64990234375 0.7001953125 0
+vt 0.69970703125 0.650146484375 0
+vt 0.75 0.60009765625 0
+vt 0.7998046875 0.550048828125 0
+vt 0.849609375 0.500244140625 0
+vt 0.89990234375 0.4501953125 0
+vt 0.94970703125 0.400390625 0
+vt 1.0 0.400390625 0
+vt 0.94970703125 0.4501953125 0
+vt 1.0 0.4501953125 0
+vt 0.89990234375 0.500244140625 0
+vt 0.849609375 0.550048828125 0
+vt 0.7998046875 0.60009765625 0
+vt 0.75 0.650146484375 0
+vt 0.69970703125 0.7001953125 0
+vt 0.64990234375 0.7501220703125 0
+vt 0.599609375 0.800048828125 0
+vt 0.5498046875 0.85009765625 0
+vt 0.5498046875 0.9000244140625 0
+vt 0.5498046875 0.95001220703125 0
+vt 0.599609375 0.9000244140625 0
+vt 0.599609375 0.95001220703125 0
+vt 0.599609375 0.85009765625 0
+vt 0.64990234375 0.800048828125 0
+vt 0.69970703125 0.7501220703125 0
+vt 0.75 0.7001953125 0
+vt 0.7998046875 0.650146484375 0
+vt 0.849609375 0.60009765625 0
+vt 0.89990234375 0.550048828125 0
+vt 0.94970703125 0.500244140625 0
+vt 1.0 0.500244140625 0
+vt 0.94970703125 0.550048828125 0
+vt 1.0 0.550048828125 0
+vt 0.89990234375 0.60009765625 0
+vt 0.849609375 0.650146484375 0
+vt 0.7998046875 0.7001953125 0
+vt 0.75 0.7501220703125 0
+vt 0.69970703125 0.800048828125 0
+vt 0.64990234375 0.85009765625 0
+vt 0.64990234375 0.9000244140625 0
+vt 0.64990234375 0.95001220703125 0
+vt 0.69970703125 0.9000244140625 0
+vt 0.69970703125 0.95001220703125 0
+vt 0.69970703125 0.85009765625 0
+vt 0.75 0.800048828125 0
+vt 0.7998046875 0.7501220703125 0
+vt 0.849609375 0.7001953125 0
+vt 0.89990234375 0.650146484375 0
+vt 0.94970703125 0.60009765625 0
+vt 1.0 0.60009765625 0
+vt 0.94970703125 0.650146484375 0
+vt 1.0 0.650146484375 0
+vt 0.89990234375 0.7001953125 0
+vt 0.849609375 0.7501220703125 0
+vt 0.7998046875 0.800048828125 0
+vt 0.75 0.85009765625 0
+vt 0.75 0.9000244140625 0
+vt 0.75 0.95001220703125 0
+vt 0.7998046875 0.9000244140625 0
+vt 0.7998046875 0.95001220703125 0
+vt 0.7998046875 0.85009765625 0
+vt 0.849609375 0.800048828125 0
+vt 0.89990234375 0.7501220703125 0
+vt 0.94970703125 0.7001953125 0
+vt 1.0 0.7001953125 0
+vt 0.94970703125 0.7501220703125 0
+vt 1.0 0.7501220703125 0
+vt 0.89990234375 0.800048828125 0
+vt 0.849609375 0.85009765625 0
+vt 0.849609375 0.9000244140625 0
+vt 0.849609375 0.95001220703125 0
+vt 0.89990234375 0.9000244140625 0
+vt 0.89990234375 0.95001220703125 0
+vt 0.89990234375 0.85009765625 0
+vt 0.94970703125 0.800048828125 0
+vt 1.0 0.800048828125 0
+vt 0.94970703125 0.85009765625 0
+vt 0.94970703125 0.9000244140625 0
+vt 0.94970703125 0.95001220703125 0
+vt 1.0 0.9000244140625 0
+vt 1.0 0.95001220703125 0
+vt 1.0 0.85009765625 0
+vt 1.2958984375 0.19873046875 0
+vt 1.275390625 0.19287109375 0
+vt 1.2685546875 0.25927734375 0
+vt 1.314453125 0.2109375 0
+vt 1.2548828125 0.193359375 0
+vt 1.328125 0.2275390625 0
+vt 1.2353515625 0.19970703125 0
+vt 1.3369140625 0.2470703125 0
+vt 1.2197265625 0.21240234375 0
+vt 1.3388671875 0.26806640625 0
+vt 1.2099609375 0.2294921875 0
+vt 1.333984375 0.2880859375 0
+vt 1.205078125 0.24951171875 0
+vt 1.32421875 0.30517578125 0
+vt 1.20703125 0.2705078125 0
+vt 1.30859375 0.3173828125 0
+vt 1.2158203125 0.2900390625 0
+vt 1.2890625 0.32421875 0
+vt 1.2294921875 0.306640625 0
+vt 1.2685546875 0.32470703125 0
+vt 1.248046875 0.318359375 0
+vt 1.275390625 0.1923828125 0
+vt 1.2958984375 0.19873046875 0
+vt 1.275390625 0.2578125 0
+vt 1.2548828125 0.19287109375 0
+vt 1.314453125 0.21044921875 0
+vt 1.2353515625 0.19970703125 0
+vt 1.328125 0.22705078125 0
+vt 1.2197265625 0.21240234375 0
+vt 1.3369140625 0.2470703125 0
+vt 1.2099609375 0.2294921875 0
+vt 1.3388671875 0.267578125 0
+vt 1.205078125 0.24951171875 0
+vt 1.333984375 0.28759765625 0
+vt 1.20703125 0.27001953125 0
+vt 1.3232421875 0.3046875 0
+vt 1.2158203125 0.2900390625 0
+vt 1.3076171875 0.3173828125 0
+vt 1.2294921875 0.306640625 0
+vt 1.2890625 0.32421875 0
+vt 1.248046875 0.318359375 0
+vt 1.2685546875 0.32470703125 0
+
+#Number of polys: 760
+f 1/1 2/2 3/3
+f 3/3 2/2 4/4
+f 2/2 5/5 4/4
+f 3/3 4/4 6/6
+f 4/4 5/5 7/7
+f 6/6 4/4 8/8
+f 7/7 8/8 4/4
+f 6/6 8/8 9/9
+f 9/9 8/8 10/10
+f 9/9 10/10 11/11
+f 8/8 12/12 10/10
+f 12/12 8/8 7/7
+f 12/12 7/7 13/13
+f 7/7 14/14 13/13
+f 14/14 7/7 5/5
+f 13/13 14/14 15/15
+f 13/13 15/15 16/16
+f 15/15 17/17 16/16
+f 13/13 16/16 18/18
+f 13/13 18/18 12/12
+f 12/12 18/18 19/19
+f 12/12 19/19 10/10
+f 10/10 19/19 20/20
+f 10/10 20/20 11/11
+f 11/11 20/20 21/21
+f 21/21 20/20 22/22
+f 21/21 22/22 23/23
+f 20/20 24/24 22/22
+f 24/24 20/20 19/19
+f 24/24 19/19 25/25
+f 19/19 18/18 25/25
+f 18/18 26/26 25/25
+f 26/26 18/18 16/16
+f 26/26 16/16 27/27
+f 16/16 17/17 27/27
+f 17/17 28/28 27/27
+f 27/27 28/28 29/29
+f 28/28 30/30 29/29
+f 27/27 29/29 31/31
+f 27/27 31/31 26/26
+f 26/26 31/31 32/32
+f 26/26 32/32 25/25
+f 25/25 32/32 33/33
+f 25/25 33/33 24/24
+f 24/24 33/33 34/34
+f 24/24 34/34 22/22
+f 22/22 34/34 35/35
+f 22/22 35/35 23/23
+f 23/23 35/35 36/36
+f 36/36 35/35 37/37
+f 36/36 37/37 38/38
+f 35/35 39/39 37/37
+f 39/39 35/35 34/34
+f 39/39 34/34 40/40
+f 34/34 33/33 40/40
+f 33/33 41/41 40/40
+f 41/41 33/33 32/32
+f 41/41 32/32 42/42
+f 32/32 31/31 42/42
+f 31/31 43/43 42/42
+f 43/43 31/31 29/29
+f 43/43 29/29 44/44
+f 29/29 30/30 44/44
+f 30/30 45/45 44/44
+f 44/44 45/45 46/46
+f 45/45 47/47 46/46
+f 44/44 46/46 48/48
+f 44/44 48/48 43/43
+f 43/43 48/48 49/49
+f 43/43 49/49 42/42
+f 42/42 49/49 50/50
+f 42/42 50/50 41/41
+f 41/41 50/50 51/51
+f 41/41 51/51 40/40
+f 40/40 51/51 52/52
+f 40/40 52/52 39/39
+f 39/39 52/52 53/53
+f 39/39 53/53 37/37
+f 37/37 53/53 54/54
+f 37/37 54/54 38/38
+f 38/38 54/54 55/55
+f 55/55 54/54 56/56
+f 55/55 56/56 57/57
+f 54/54 58/58 56/56
+f 58/58 54/54 53/53
+f 58/58 53/53 59/59
+f 53/53 52/52 59/59
+f 52/52 60/60 59/59
+f 60/60 52/52 51/51
+f 60/60 51/51 61/61
+f 51/51 50/50 61/61
+f 50/50 62/62 61/61
+f 62/62 50/50 49/49
+f 62/62 49/49 63/63
+f 49/49 48/48 63/63
+f 48/48 64/64 63/63
+f 64/64 48/48 46/46
+f 64/64 46/46 65/65
+f 46/46 47/47 65/65
+f 47/47 66/66 65/65
+f 65/65 66/66 67/67
+f 66/66 68/68 67/67
+f 65/65 67/67 69/69
+f 65/65 69/69 64/64
+f 64/64 69/69 70/70
+f 64/64 70/70 63/63
+f 63/63 70/70 71/71
+f 63/63 71/71 62/62
+f 62/62 71/71 72/72
+f 62/62 72/72 61/61
+f 61/61 72/72 73/73
+f 61/61 73/73 60/60
+f 60/60 73/73 74/74
+f 60/60 74/74 59/59
+f 59/59 74/74 75/75
+f 59/59 75/75 58/58
+f 58/58 75/75 76/76
+f 58/58 76/76 56/56
+f 56/56 76/76 77/77
+f 56/56 77/77 57/57
+f 57/57 77/77 78/78
+f 78/78 77/77 79/79
+f 78/78 79/79 80/80
+f 77/77 81/81 79/79
+f 81/81 77/77 76/76
+f 81/81 76/76 82/82
+f 76/76 75/75 82/82
+f 75/75 83/83 82/82
+f 83/83 75/75 74/74
+f 83/83 74/74 84/84
+f 74/74 73/73 84/84
+f 73/73 85/85 84/84
+f 85/85 73/73 72/72
+f 85/85 72/72 86/86
+f 72/72 71/71 86/86
+f 71/71 87/87 86/86
+f 87/87 71/71 70/70
+f 87/87 70/70 88/88
+f 70/70 69/69 88/88
+f 69/69 89/89 88/88
+f 89/89 69/69 67/67
+f 89/89 67/67 90/90
+f 67/67 68/68 90/90
+f 68/68 91/91 90/90
+f 90/90 91/91 92/92
+f 91/91 93/93 92/92
+f 90/90 92/92 94/94
+f 90/90 94/94 89/89
+f 89/89 94/94 95/95
+f 89/89 95/95 88/88
+f 88/88 95/95 96/96
+f 88/88 96/96 87/87
+f 87/87 96/96 97/97
+f 87/87 97/97 86/86
+f 86/86 97/97 98/98
+f 86/86 98/98 85/85
+f 85/85 98/98 99/99
+f 85/85 99/99 84/84
+f 84/84 99/99 100/100
+f 84/84 100/100 83/83
+f 83/83 100/100 101/101
+f 83/83 101/101 82/82
+f 82/82 101/101 102/102
+f 82/82 102/102 81/81
+f 81/81 102/102 103/103
+f 81/81 103/103 79/79
+f 79/79 103/103 104/104
+f 79/79 104/104 80/80
+f 80/80 104/104 105/105
+f 105/105 104/104 106/106
+f 105/105 106/106 107/107
+f 104/104 108/108 106/106
+f 108/108 104/104 103/103
+f 108/108 103/103 109/109
+f 103/103 102/102 109/109
+f 102/102 110/110 109/109
+f 110/110 102/102 101/101
+f 110/110 101/101 111/111
+f 101/101 100/100 111/111
+f 100/100 112/112 111/111
+f 112/112 100/100 99/99
+f 112/112 99/99 113/113
+f 99/99 98/98 113/113
+f 98/98 114/114 113/113
+f 114/114 98/98 97/97
+f 114/114 97/97 115/115
+f 97/97 96/96 115/115
+f 96/96 116/116 115/115
+f 116/116 96/96 95/95
+f 116/116 95/95 117/117
+f 95/95 94/94 117/117
+f 94/94 118/118 117/117
+f 118/118 94/94 92/92
+f 118/118 92/92 119/119
+f 92/92 93/93 119/119
+f 93/93 120/120 119/119
+f 119/119 120/120 121/121
+f 120/120 122/122 121/121
+f 119/119 121/121 123/123
+f 119/119 123/123 118/118
+f 118/118 123/123 124/124
+f 118/118 124/124 117/117
+f 117/117 124/124 125/125
+f 117/117 125/125 116/116
+f 116/116 125/125 126/126
+f 116/116 126/126 115/115
+f 115/115 126/126 127/127
+f 115/115 127/127 114/114
+f 114/114 127/127 128/128
+f 114/114 128/128 113/113
+f 113/113 128/128 129/129
+f 113/113 129/129 112/112
+f 112/112 129/129 130/130
+f 112/112 130/130 111/111
+f 111/111 130/130 131/131
+f 111/111 131/131 110/110
+f 110/110 131/131 132/132
+f 110/110 132/132 109/109
+f 109/109 132/132 133/133
+f 109/109 133/133 108/108
+f 108/108 133/133 134/134
+f 108/108 134/134 106/106
+f 106/106 134/134 135/135
+f 106/106 135/135 107/107
+f 107/107 135/135 136/136
+f 136/136 135/135 137/137
+f 136/136 137/137 138/138
+f 135/135 139/139 137/137
+f 139/139 135/135 134/134
+f 139/139 134/134 140/140
+f 134/134 133/133 140/140
+f 133/133 141/141 140/140
+f 141/141 133/133 132/132
+f 141/141 132/132 142/142
+f 132/132 131/131 142/142
+f 131/131 143/143 142/142
+f 143/143 131/131 130/130
+f 143/143 130/130 144/144
+f 130/130 129/129 144/144
+f 129/129 145/145 144/144
+f 145/145 129/129 128/128
+f 145/145 128/128 146/146
+f 128/128 127/127 146/146
+f 127/127 147/147 146/146
+f 147/147 127/127 126/126
+f 147/147 126/126 148/148
+f 126/126 125/125 148/148
+f 125/125 149/149 148/148
+f 149/149 125/125 124/124
+f 149/149 124/124 150/150
+f 124/124 123/123 150/150
+f 123/123 151/151 150/150
+f 151/151 123/123 121/121
+f 151/151 121/121 152/152
+f 121/121 122/122 152/152
+f 122/122 153/153 152/152
+f 152/152 153/153 154/154
+f 153/153 155/155 154/154
+f 152/152 154/154 156/156
+f 152/152 156/156 151/151
+f 151/151 156/156 157/157
+f 151/151 157/157 150/150
+f 150/150 157/157 158/158
+f 150/150 158/158 149/149
+f 149/149 158/158 159/159
+f 149/149 159/159 148/148
+f 148/148 159/159 160/160
+f 148/148 160/160 147/147
+f 147/147 160/160 161/161
+f 147/147 161/161 146/146
+f 146/146 161/161 162/162
+f 146/146 162/162 145/145
+f 145/145 162/162 163/163
+f 145/145 163/163 144/144
+f 144/144 163/163 164/164
+f 144/144 164/164 143/143
+f 143/143 164/164 165/165
+f 143/143 165/165 142/142
+f 142/142 165/165 166/166
+f 142/142 166/166 141/141
+f 141/141 166/166 167/167
+f 141/141 167/167 140/140
+f 140/140 167/167 168/168
+f 140/140 168/168 139/139
+f 139/139 168/168 169/169
+f 139/139 169/169 137/137
+f 137/137 169/169 170/170
+f 137/137 170/170 138/138
+f 138/138 170/170 171/171
+f 171/171 170/170 172/172
+f 171/171 172/172 173/173
+f 173/173 172/172 174/174
+f 172/172 175/175 174/174
+f 174/174 175/175 176/176
+f 172/172 177/177 175/175
+f 177/177 172/172 170/170
+f 177/177 170/170 169/169
+f 177/177 169/169 178/178
+f 169/169 168/168 178/178
+f 168/168 179/179 178/178
+f 179/179 168/168 167/167
+f 179/179 167/167 180/180
+f 167/167 166/166 180/180
+f 166/166 181/181 180/180
+f 181/181 166/166 165/165
+f 181/181 165/165 182/182
+f 165/165 164/164 182/182
+f 164/164 183/183 182/182
+f 183/183 164/164 163/163
+f 183/183 163/163 184/184
+f 163/163 162/162 184/184
+f 162/162 185/185 184/184
+f 185/185 162/162 161/161
+f 185/185 161/161 186/186
+f 161/161 160/160 186/186
+f 160/160 187/187 186/186
+f 187/187 160/160 159/159
+f 187/187 159/159 188/188
+f 159/159 158/158 188/188
+f 158/158 189/189 188/188
+f 189/189 158/158 157/157
+f 189/189 157/157 190/190
+f 157/157 156/156 190/190
+f 156/156 191/191 190/190
+f 191/191 156/156 154/154
+f 191/191 154/154 192/192
+f 154/154 155/155 192/192
+f 155/155 193/193 192/192
+f 192/192 193/193 194/194
+f 193/193 195/195 194/194
+f 192/192 194/194 196/196
+f 192/192 196/196 191/191
+f 191/191 196/196 197/197
+f 191/191 197/197 190/190
+f 190/190 197/197 198/198
+f 190/190 198/198 189/189
+f 189/189 198/198 199/199
+f 189/189 199/199 188/188
+f 188/188 199/199 200/200
+f 188/188 200/200 187/187
+f 187/187 200/200 201/201
+f 187/187 201/201 186/186
+f 186/186 201/201 202/202
+f 186/186 202/202 185/185
+f 185/185 202/202 203/203
+f 185/185 203/203 184/184
+f 184/184 203/203 204/204
+f 184/184 204/204 183/183
+f 183/183 204/204 205/205
+f 183/183 205/205 182/182
+f 182/182 205/205 206/206
+f 182/182 206/206 181/181
+f 181/181 206/206 207/207
+f 181/181 207/207 180/180
+f 180/180 207/207 208/208
+f 180/180 208/208 179/179
+f 179/179 208/208 209/209
+f 179/179 209/209 178/178
+f 178/178 209/209 210/210
+f 178/178 210/210 177/177
+f 177/177 210/210 175/175
+f 175/175 210/210 211/211
+f 175/175 211/211 176/176
+f 176/176 211/211 212/212
+f 211/211 213/213 212/212
+f 212/212 213/213 214/214
+f 211/211 215/215 213/213
+f 215/215 211/211 210/210
+f 215/215 210/210 209/209
+f 215/215 209/209 216/216
+f 209/209 208/208 216/216
+f 208/208 217/217 216/216
+f 217/217 208/208 207/207
+f 217/217 207/207 218/218
+f 207/207 206/206 218/218
+f 206/206 219/219 218/218
+f 219/219 206/206 205/205
+f 219/219 205/205 220/220
+f 205/205 204/204 220/220
+f 204/204 221/221 220/220
+f 221/221 204/204 203/203
+f 221/221 203/203 222/222
+f 203/203 202/202 222/222
+f 202/202 223/223 222/222
+f 223/223 202/202 201/201
+f 223/223 201/201 224/224
+f 201/201 200/200 224/224
+f 200/200 225/225 224/224
+f 225/225 200/200 199/199
+f 225/225 199/199 226/226
+f 199/199 198/198 226/226
+f 198/198 227/227 226/226
+f 227/227 198/198 197/197
+f 227/227 197/197 228/228
+f 197/197 196/196 228/228
+f 196/196 229/229 228/228
+f 229/229 196/196 194/194
+f 229/229 194/194 230/230
+f 194/194 195/195 230/230
+f 195/195 231/231 230/230
+f 230/230 231/231 232/232
+f 230/230 232/232 233/233
+f 230/230 233/233 229/229
+f 233/233 232/232 234/234
+f 229/229 233/233 235/235
+f 229/229 235/235 228/228
+f 228/228 235/235 236/236
+f 228/228 236/236 227/227
+f 227/227 236/236 237/237
+f 227/227 237/237 226/226
+f 226/226 237/237 238/238
+f 226/226 238/238 225/225
+f 225/225 238/238 239/239
+f 225/225 239/239 224/224
+f 224/224 239/239 240/240
+f 224/224 240/240 223/223
+f 223/223 240/240 241/241
+f 223/223 241/241 222/222
+f 222/222 241/241 242/242
+f 222/222 242/242 221/221
+f 221/221 242/242 243/243
+f 221/221 243/243 220/220
+f 220/220 243/243 244/244
+f 220/220 244/244 219/219
+f 219/219 244/244 245/245
+f 219/219 245/245 218/218
+f 218/218 245/245 246/246
+f 218/218 246/246 217/217
+f 217/217 246/246 247/247
+f 217/217 247/247 216/216
+f 216/216 247/247 248/248
+f 216/216 248/248 215/215
+f 215/215 248/248 213/213
+f 213/213 248/248 249/249
+f 213/213 249/249 214/214
+f 214/214 249/249 250/250
+f 249/249 251/251 250/250
+f 250/250 251/251 252/252
+f 249/249 253/253 251/251
+f 253/253 249/249 248/248
+f 253/253 248/248 247/247
+f 253/253 247/247 254/254
+f 247/247 246/246 254/254
+f 246/246 255/255 254/254
+f 255/255 246/246 245/245
+f 255/255 245/245 256/256
+f 245/245 244/244 256/256
+f 244/244 257/257 256/256
+f 257/257 244/244 243/243
+f 257/257 243/243 258/258
+f 243/243 242/242 258/258
+f 242/242 259/259 258/258
+f 259/259 242/242 241/241
+f 259/259 241/241 260/260
+f 241/241 240/240 260/260
+f 240/240 261/261 260/260
+f 261/261 240/240 239/239
+f 261/261 239/239 262/262
+f 239/239 238/238 262/262
+f 238/238 263/263 262/262
+f 263/263 238/238 237/237
+f 263/263 237/237 264/264
+f 237/237 236/236 264/264
+f 236/236 265/265 264/264
+f 265/265 236/236 235/235
+f 265/265 235/235 266/266
+f 235/235 233/233 266/266
+f 233/233 234/234 266/266
+f 266/266 234/234 267/267
+f 266/266 267/267 268/268
+f 266/266 268/268 265/265
+f 268/268 267/267 269/269
+f 265/265 268/268 270/270
+f 265/265 270/270 264/264
+f 264/264 270/270 271/271
+f 264/264 271/271 263/263
+f 263/263 271/271 272/272
+f 263/263 272/272 262/262
+f 262/262 272/272 273/273
+f 262/262 273/273 261/261
+f 261/261 273/273 274/274
+f 261/261 274/274 260/260
+f 260/260 274/274 275/275
+f 260/260 275/275 259/259
+f 259/259 275/275 276/276
+f 259/259 276/276 258/258
+f 258/258 276/276 277/277
+f 258/258 277/277 257/257
+f 257/257 277/277 278/278
+f 257/257 278/278 256/256
+f 256/256 278/278 279/279
+f 256/256 279/279 255/255
+f 255/255 279/279 280/280
+f 255/255 280/280 254/254
+f 254/254 280/280 281/281
+f 254/254 281/281 253/253
+f 253/253 281/281 251/251
+f 251/251 281/281 282/282
+f 251/251 282/282 252/252
+f 252/252 282/282 283/283
+f 282/282 284/284 283/283
+f 283/283 284/284 285/285
+f 282/282 286/286 284/284
+f 286/286 282/282 281/281
+f 286/286 281/281 280/280
+f 286/286 280/280 287/287
+f 280/280 279/279 287/287
+f 279/279 288/288 287/287
+f 288/288 279/279 278/278
+f 288/288 278/278 289/289
+f 278/278 277/277 289/289
+f 277/277 290/290 289/289
+f 290/290 277/277 276/276
+f 290/290 276/276 291/291
+f 276/276 275/275 291/291
+f 275/275 292/292 291/291
+f 292/292 275/275 274/274
+f 292/292 274/274 293/293
+f 274/274 273/273 293/293
+f 273/273 294/294 293/293
+f 294/294 273/273 272/272
+f 294/294 272/272 295/295
+f 272/272 271/271 295/295
+f 271/271 296/296 295/295
+f 296/296 271/271 270/270
+f 296/296 270/270 297/297
+f 270/270 268/268 297/297
+f 268/268 269/269 297/297
+f 297/297 269/269 298/298
+f 297/297 298/298 299/299
+f 297/297 299/299 296/296
+f 299/299 298/298 300/300
+f 296/296 299/299 301/301
+f 296/296 301/301 295/295
+f 295/295 301/301 302/302
+f 295/295 302/302 294/294
+f 294/294 302/302 303/303
+f 294/294 303/303 293/293
+f 293/293 303/303 304/304
+f 293/293 304/304 292/292
+f 292/292 304/304 305/305
+f 292/292 305/305 291/291
+f 291/291 305/305 306/306
+f 291/291 306/306 290/290
+f 290/290 306/306 307/307
+f 290/290 307/307 289/289
+f 289/289 307/307 308/308
+f 289/289 308/308 288/288
+f 288/288 308/308 309/309
+f 288/288 309/309 287/287
+f 287/287 309/309 310/310
+f 287/287 310/310 286/286
+f 286/286 310/310 284/284
+f 284/284 310/310 311/311
+f 284/284 311/311 285/285
+f 285/285 311/311 312/312
+f 311/311 313/313 312/312
+f 312/312 313/313 314/314
+f 311/311 315/315 313/313
+f 315/315 311/311 310/310
+f 315/315 310/310 309/309
+f 315/315 309/309 316/316
+f 309/309 308/308 316/316
+f 308/308 317/317 316/316
+f 317/317 308/308 307/307
+f 317/317 307/307 318/318
+f 307/307 306/306 318/318
+f 306/306 319/319 318/318
+f 319/319 306/306 305/305
+f 319/319 305/305 320/320
+f 305/305 304/304 320/320
+f 304/304 321/321 320/320
+f 321/321 304/304 303/303
+f 321/321 303/303 322/322
+f 303/303 302/302 322/322
+f 302/302 323/323 322/322
+f 323/323 302/302 301/301
+f 323/323 301/301 324/324
+f 301/301 299/299 324/324
+f 299/299 300/300 324/324
+f 324/324 300/300 325/325
+f 324/324 325/325 326/326
+f 324/324 326/326 323/323
+f 326/326 325/325 327/327
+f 323/323 326/326 328/328
+f 323/323 328/328 322/322
+f 322/322 328/328 329/329
+f 322/322 329/329 321/321
+f 321/321 329/329 330/330
+f 321/321 330/330 320/320
+f 320/320 330/330 331/331
+f 320/320 331/331 319/319
+f 319/319 331/331 332/332
+f 319/319 332/332 318/318
+f 318/318 332/332 333/333
+f 318/318 333/333 317/317
+f 317/317 333/333 334/334
+f 317/317 334/334 316/316
+f 316/316 334/334 335/335
+f 316/316 335/335 315/315
+f 315/315 335/335 313/313
+f 313/313 335/335 336/336
+f 313/313 336/336 314/314
+f 314/314 336/336 337/337
+f 336/336 338/338 337/337
+f 337/337 338/338 339/339
+f 336/336 340/340 338/338
+f 340/340 336/336 335/335
+f 340/340 335/335 334/334
+f 340/340 334/334 341/341
+f 334/334 333/333 341/341
+f 333/333 342/342 341/341
+f 342/342 333/333 332/332
+f 342/342 332/332 343/343
+f 332/332 331/331 343/343
+f 331/331 344/344 343/343
+f 344/344 331/331 330/330
+f 344/344 330/330 345/345
+f 330/330 329/329 345/345
+f 329/329 346/346 345/345
+f 346/346 329/329 328/328
+f 346/346 328/328 347/347
+f 328/328 326/326 347/347
+f 326/326 327/327 347/347
+f 347/347 327/327 348/348
+f 347/347 348/348 349/349
+f 347/347 349/349 346/346
+f 349/349 348/348 350/350
+f 346/346 349/349 351/351
+f 346/346 351/351 345/345
+f 345/345 351/351 352/352
+f 345/345 352/352 344/344
+f 344/344 352/352 353/353
+f 344/344 353/353 343/343
+f 343/343 353/353 354/354
+f 343/343 354/354 342/342
+f 342/342 354/354 355/355
+f 342/342 355/355 341/341
+f 341/341 355/355 356/356
+f 341/341 356/356 340/340
+f 340/340 356/356 338/338
+f 338/338 356/356 357/357
+f 338/338 357/357 339/339
+f 339/339 357/357 358/358
+f 357/357 359/359 358/358
+f 358/358 359/359 360/360
+f 357/357 361/361 359/359
+f 361/361 357/357 356/356
+f 361/361 356/356 355/355
+f 361/361 355/355 362/362
+f 355/355 354/354 362/362
+f 354/354 363/363 362/362
+f 363/363 354/354 353/353
+f 363/363 353/353 364/364
+f 353/353 352/352 364/364
+f 352/352 365/365 364/364
+f 365/365 352/352 351/351
+f 365/365 351/351 366/366
+f 351/351 349/349 366/366
+f 349/349 350/350 366/366
+f 366/366 350/350 367/367
+f 366/366 367/367 368/368
+f 366/366 368/368 365/365
+f 368/368 367/367 369/369
+f 365/365 368/368 370/370
+f 365/365 370/370 364/364
+f 364/364 370/370 371/371
+f 364/364 371/371 363/363
+f 363/363 371/371 372/372
+f 363/363 372/372 362/362
+f 362/362 372/372 373/373
+f 362/362 373/373 361/361
+f 361/361 373/373 359/359
+f 359/359 373/373 374/374
+f 359/359 374/374 360/360
+f 360/360 374/374 375/375
+f 374/374 376/376 375/375
+f 375/375 376/376 377/377
+f 374/374 378/378 376/376
+f 378/378 374/374 373/373
+f 378/378 373/373 372/372
+f 378/378 372/372 379/379
+f 372/372 371/371 379/379
+f 371/371 380/380 379/379
+f 380/380 371/371 370/370
+f 380/380 370/370 381/381
+f 370/370 368/368 381/381
+f 368/368 369/369 381/381
+f 381/381 369/369 382/382
+f 381/381 382/382 383/383
+f 381/381 383/383 380/380
+f 383/383 382/382 384/384
+f 380/380 383/383 385/385
+f 380/380 385/385 379/379
+f 379/379 385/385 386/386
+f 379/379 386/386 378/378
+f 378/378 386/386 376/376
+f 376/376 386/386 387/387
+f 376/376 387/387 377/377
+f 377/377 387/387 388/388
+f 387/387 389/389 388/388
+f 388/388 389/389 390/390
+f 387/387 391/391 389/389
+f 391/391 387/387 386/386
+f 391/391 386/386 385/385
+f 391/391 385/385 392/392
+f 385/385 383/383 392/392
+f 383/383 384/384 392/392
+f 392/392 384/384 393/393
+f 392/392 393/393 394/394
+f 392/392 394/394 391/391
+f 391/391 394/394 389/389
+f 389/389 394/394 395/395
+f 389/389 395/395 390/390
+f 390/390 395/395 396/396
+f 395/395 397/397 396/396
+f 396/396 397/397 398/398
+f 395/395 399/399 397/397
+f 399/399 395/395 394/394
+f 399/399 394/394 393/393
+f 400/400 401/401 402/402
+f 400/400 402/402 403/403
+f 401/401 404/404 402/402
+f 403/403 402/402 405/405
+f 404/404 406/406 402/402
+f 405/405 402/402 407/407
+f 406/406 408/408 402/402
+f 407/407 402/402 409/409
+f 408/408 410/410 402/402
+f 409/409 402/402 411/411
+f 410/410 412/412 402/402
+f 411/411 402/402 413/413
+f 412/412 414/414 402/402
+f 413/413 402/402 415/415
+f 414/414 416/416 402/402
+f 415/415 402/402 417/417
+f 416/416 418/418 402/402
+f 417/417 402/402 419/419
+f 418/418 420/420 402/402
+f 419/419 402/402 420/420
+f 421/421 422/422 423/423
+f 421/421 423/423 424/424
+f 422/422 425/425 423/423
+f 424/424 423/423 426/426
+f 425/425 427/427 423/423
+f 426/426 423/423 428/428
+f 427/427 429/429 423/423
+f 428/428 423/423 430/430
+f 429/429 431/431 423/423
+f 430/430 423/423 432/432
+f 431/431 433/433 423/423
+f 432/432 423/423 434/434
+f 433/433 435/435 423/423
+f 434/434 423/423 436/436
+f 435/435 437/437 423/423
+f 436/436 423/423 438/438
+f 437/437 439/439 423/423
+f 438/438 423/423 440/440
+f 439/439 441/441 423/423
+f 440/440 423/423 441/441
