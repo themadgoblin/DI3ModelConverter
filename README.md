@@ -4,7 +4,7 @@ Scripts for transforming model files found on DI3 Gold PC (ibuf,vbuf...) to OBJ 
 
 **Disclaimer**
 These scripts probably work ok for transforming ibuf+vbuf files to OBJ, but will **NOT** work directly for converting OBJ files to game files.
-WORK MUST BE DONE TO MAKE THESE WORK
+MODIFICATIONS MUST BE DONE TO MAKE THESE WORK
 
 
 ## Description
