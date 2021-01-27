@@ -7,7 +7,7 @@ These scripts probably work ok for transforming ibuf+vbuf files to OBJ, but will
 WORK MUST BE DONE TO MAKE THESE WORK
 
 
-##Description
+## Description
 
 
 
@@ -17,12 +17,12 @@ objConverter.py - Reads obj file to recreate ibuf and vbuf files. Author: Eidan 
 ibufExtract.py - Reads an ibuf and vbuf files and outputs in terminal an ascii OBJ file. Author: Eidan Yoson.  This file contains A LOT of debug information that can be useful to continue reversing the file format, just open it on a text editor.
 
 
-##Usage:
+## Usage:
 
 python3 ibufExtract.py [ibufFilename] [vbufFilename] >output.obj 
 
 Example: Dump the OBJ file into terminal. 
-python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf
+`python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf`
 
 Example 2:
-python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf >tdu_beachball/tdu_beachball.obj
+`python3 ibufExtract.py tdu_beachball/tdu_beachball_0.ibuf tdu_beachball/tdu_beachball_0.vbuf >tdu_beachball/tdu_beachball.obj`
