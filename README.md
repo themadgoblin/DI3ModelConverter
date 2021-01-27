@@ -12,8 +12,11 @@ WORK MUST BE DONE TO MAKE THESE WORK
 
 
 reader.py - Disney Infinity .oct .bent .banm .mer reader. Author: zzh8829
+
 example.py - Example code for using half precision floating point numbers on python. Author: unknown
+
 objConverter.py - Reads obj file to recreate ibuf and vbuf files. Author: Eidan Yoson. IT WILL NOT WORK UNLESS YOU KNOW WHAT ARE YOU DOING.
+
 ibufExtract.py - Reads an ibuf and vbuf files and outputs in terminal an ascii OBJ file. Author: Eidan Yoson.  This file contains A LOT of debug information that can be useful to continue reversing the file format, just open it on a text editor.
 
 
