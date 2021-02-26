@@ -11,7 +11,7 @@ ibufFilename=objFilename.split('.')[0] + ".ibuf.converted"
 vbufFilename=objFilename.split('.')[0] + ".vbuf.converted"
 
 vertexArray = []
-vertexUvArray = []
+vertexUvArray = []  # index array of UV coordinates that will be used for this polygon. It goes to the ibuf
 uvArray = []
 
 polyArray = []
@@ -121,16 +121,21 @@ with open(vbufFilename, "wb") as vbuf_File:
         print(y)
         print(z)
 
-        print("UV Index")
-        print(vertexUvArray[position][0])
-        print(vertexUvArray[position][1])
-        print(vertexUvArray[position][2])
+#        print("UV Index")
+#        print(vertexUvArray[position][0])
+#        print(vertexUvArray[position][1])
+#        print(vertexUvArray[position][2])
+
+
+#        print("Debug stuff")
+#        print(uvArray[position])
 
         print("UV coordinates")
         # Retrieving the UV coordinates OLD
         uvCoordinates=uvArray[position].split()
         u=np.float16(float(uvCoordinates[1]))
-        v=np.float16(float(uvCoordinates[2])-1)
+        #v=np.float16(float(uvCoordinates[2])-1)
+        v=np.float16(float(uvCoordinates[2]))
         print(u)
         print(v)
 
