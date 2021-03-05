@@ -38,11 +38,11 @@ print("#" + ibufFilename+" size:" + str(file_length_in_bytes) + " bytes")
 
 with open(ibufFilename, "rb") as binary_file:
     binary_file.seek(0, 0)
-    numberOfPolys = file_length_in_bytes / 6
-    for polyNumber in range(0,int(numberOfPolys)):
+    numberOfPolys = file_length_in_bytes / 6  # Each polygon is formed by 3 vertex. Each vertex id uses 2 bytes -> 6 bytes (firstVertexId, secondVertexId, thirdVertexId) Example from a triangle: 00 00 01 00 02 00
+    for polyNumber in range(0,int(numberOfPolys)): # Since we dont know the number of vertex in the file, we just iterate through it and find the highest number
         chunk = binary_file.read(6)
-        asd = PolyStruct(chunk)
-        polyArray.append(asd)
+        asd = PolyStruct(chunk) # We read a chunk of 6 bytes and transform it on a PolyStruct.
+        polyArray.append(asd) # and we keep that poly struct on the polyarray
         #print ("f "+ str(asd.first) + "/" + str(asd.first) + " " + str(asd.second) + "/" + str(asd.second) + " " + str(asd.third) + "/" + str(asd.third))
 
         if asd.first>numberOfVertex:
@@ -54,7 +54,7 @@ with open(ibufFilename, "rb") as binary_file:
         if asd.third>numberOfVertex:
             numberOfVertex=asd.third
 
-print ("# Number of vertex found: " + str(numberOfVertex))
+print ("# Number of vertex found: " + str(numberOfVertex))   # HACK: we should read this from the .oct file instead
 
 
 # vbuf handling
@@ -68,16 +68,14 @@ with open(vbufFilename, "rb") as binary_file:
     #numberOfVertex = file_length_in_bytes / 16
     for polyNumber in range(0,int(numberOfVertex)):
         print ("#DEBUG vertex "+str(polyNumber)+" structure offset : " + str(binary_file.tell()) )
-        chunk = binary_file.read(12)
-        uCoords = binary_file.read(2)
-        vCoords = binary_file.read(2)
+        chunk = binary_file.read(12) # 12 bytes that form the X,Y,Z coordinates of this vertex. Each coordinate is represented with a float (4 bytes)
+        uCoords = binary_file.read(2) # READ THIS http://fpmurphy.blogspot.com/2008/12/half-precision-floating-point-format_14.html
+        vCoords = binary_file.read(2) # READ THIS http://fpmurphy.blogspot.com/2008/12/half-precision-floating-point-format_14.html
 
-        # *****************************
-        # READ THIS http://fpmurphy.blogspot.com/2008/12/half-precision-floating-point-format_14.html
         asd = VertexStruct(chunk)
         vertexArray.append(asd)
 
-        asd = UvStruct(np.frombuffer(uCoords, dtype=np.float16)[0].astype(float),np.frombuffer(vCoords, dtype=np.float16)[0].astype(float))
+        asd = UvStruct(np.frombuffer(uCoords, dtype=np.float16)[0].astype(float),np.frombuffer(vCoords, dtype=np.float16)[0].astype(float)) # READ THIS http://fpmurphy.blogspot.com/2008/12/half-precision-floating-point-format_14.html
         uvArray.append(asd)
 
         # FOR DEBUG
@@ -89,7 +87,7 @@ with open(vbufFilename, "rb") as binary_file:
         mistery1 = binary_file.read(4)
         mistery2 = binary_file.read(4)
 
-        print("# Mistery 1: " + mistery1.hex() + " Mistery 2: " + mistery2.hex())
+        print("# Offset:" + str(binary_file.tell()) + " Mistery 1: " + mistery1.hex() + " Mistery 2: " + mistery2.hex())
 
 
 print ("#Number of vertex: " + str(len(vertexArray)))

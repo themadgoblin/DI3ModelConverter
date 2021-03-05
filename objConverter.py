@@ -5,13 +5,15 @@ import numpy as np
 
 ## READ THIS DUMBASS
 ## https://forum.xentax.com/viewtopic.php?t=11187
+## BUGS TO FIX: UV coordinates on the index can be repeated. The converter will fail if all the vertex dont have their own UV unique coordinate. This means X vertex = X UV coordinate pairs.
+
 
 objFilename=sys.argv[1]
-ibufFilename=objFilename.split('.')[0] + ".ibuf.converted"
-vbufFilename=objFilename.split('.')[0] + ".vbuf.converted"
+ibufFilename=objFilename.split('.')[0] + "CONV.ibuf"
+vbufFilename=objFilename.split('.')[0] + "CONV.vbuf"
 
 vertexArray = []
-vertexUvArray = []
+vertexUvArray = []  # index array of UV coordinates that will be used for this polygon. It goes to the ibuf
 uvArray = []
 
 polyArray = []
@@ -61,8 +63,8 @@ with open(ibufFilename, "wb") as ibuf_File:
         triangleVertexList=triangle.split()
         print("Triangle")
         print(triangleVertexList)
-        v1=int(triangleVertexList[1].split('/')[0])-1
-        uv1=int(triangleVertexList[1].split('/')[1])-1
+        v1=int(triangleVertexList[1].split('/')[0])-1  # We start from 1 because 0 is 'f'
+        uv1=int(triangleVertexList[1].split('/')[1])-1 # We start from 1 because 0 is 'f'
 
         v2=int(triangleVertexList[2].split('/')[0])-1
         uv2=int(triangleVertexList[2].split('/')[1])-1
@@ -70,16 +72,16 @@ with open(ibufFilename, "wb") as ibuf_File:
         v3=int(triangleVertexList[3].split('/')[0])-1
         uv3=int(triangleVertexList[3].split('/')[1])-1
 
-        # DEBUG
-        # print("Vertex index")
-        # print(v1)
-        # print(v2)
-        # print(v3)
-        #
-        # print("UV index")
-        # print(uv1)
-        # print(uv2)
-        # print(uv3)
+        #DEBUG
+        print("Vertex index")
+        print(v1)
+        print(v2)
+        print(v3)
+
+        print("UV index")
+        print(uv1)
+        print(uv2)
+        print(uv3)
 
         # print("UV Coordinates")
         # print("Vertex 1 UV:")
@@ -121,16 +123,23 @@ with open(vbufFilename, "wb") as vbuf_File:
         print(y)
         print(z)
 
-        print("UV Index")
-        print(vertexUvArray[position][0])
-        print(vertexUvArray[position][1])
-        print(vertexUvArray[position][2])
+#        print("UV Index")
+#        print(vertexUvArray[position][0])
+#        print(vertexUvArray[position][1])
+#        print(vertexUvArray[position][2])
+
+
+#        print("Debug stuff")
+#        print(uvArray[position])
 
         print("UV coordinates")
         # Retrieving the UV coordinates OLD
         uvCoordinates=uvArray[position].split()
         u=np.float16(float(uvCoordinates[1]))
-        v=np.float16(float(uvCoordinates[2])-1)
+        v=np.float16(1.0-float(uvCoordinates[2]))
+        #v=np.float16(1.0-float(uvCoordinates[2]))
+        print(uvCoordinates[1])
+        print(uvCoordinates[2])
         print(u)
         print(v)
 
@@ -138,7 +147,7 @@ with open(vbufFilename, "wb") as vbuf_File:
 
         #     def __init__(self, u, v):
                 # self.u = u
-                # self.v = 1-v <<<<<<<<<<<<<<<<<<<<<<<<<- THIS WILL BITE MY ASS
+                # self.v = 1-v <<<<<<<<<<<<<<<<<<<<<<<<<- THIS WILL BITE MY ASS <<<<<<<< (26/02/2021) Thanks madgoblin from the past
         #         asd = UvStruct(  np.frombuffer(uCoords, dtype=np.float16)[0].astype(float)    ,   np.frombuffer(vCoords, dtype=np.float16)[0].astype(float)  )
 
 
