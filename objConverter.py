@@ -5,10 +5,12 @@ import numpy as np
 
 ## READ THIS DUMBASS
 ## https://forum.xentax.com/viewtopic.php?t=11187
+## BUGS TO FIX: UV coordinates on the index can be repeated. The converter will fail if all the vertex dont have their own UV unique coordinate. This means X vertex = X UV coordinate pairs.
+
 
 objFilename=sys.argv[1]
-ibufFilename=objFilename.split('.')[0] + ".ibuf.converted"
-vbufFilename=objFilename.split('.')[0] + ".vbuf.converted"
+ibufFilename=objFilename.split('.')[0] + "CONV.ibuf"
+vbufFilename=objFilename.split('.')[0] + "CONV.vbuf"
 
 vertexArray = []
 vertexUvArray = []  # index array of UV coordinates that will be used for this polygon. It goes to the ibuf
@@ -135,6 +137,9 @@ with open(vbufFilename, "wb") as vbuf_File:
         uvCoordinates=uvArray[position].split()
         u=np.float16(float(uvCoordinates[1]))
         v=np.float16(1.0-float(uvCoordinates[2]))
+        #v=np.float16(1.0-float(uvCoordinates[2]))
+        print(uvCoordinates[1])
+        print(uvCoordinates[2])
         print(u)
         print(v)
 
